@@ -1,0 +1,631 @@
+ID,Current Role,Average Salary (USD),Careers Switch,Industry,Favorite Programming Language,Salary Satisfaction,Work/Balance Satisfaction,Coworkers Satisfaction,Management Satisfaction,Upward Mobility Satisfaction,Learning New Things Satisfaction,Difficulty to Break,Most Important Thing,Gender,Age,Country,Level of Education,Ethnicity
+1,Data Analyst,115500.0,Yes,Healthcare and Biotechnology,Python,9.0,9.0,7.0,5.0,5.0,7.0,Very Difficult,Work Environment Preferences,Male,26,United States,Unknown,White or Caucasian
+2,Data Analyst,53000.0,No,Finance and Banking,R,1.0,2.0,5.0,2.0,1.0,3.0,Very Difficult,Work Environment Preferences,Male,36,Canada,Unknown,Asian
+3,Data Engineer,20000.0,No,Energy and Utilities,Python,0.0,8.0,7.0,5.0,7.0,7.0,Easy,Work-Life Balance,Male,23,Nigeria,Unknown,Black or African American
+4,Consultant,187500.0,Yes,Finance and Banking,R,10.0,6.0,7.0,10.0,7.0,10.0,Very Easy,Work Environment Preferences,Female,35,Canada,Unknown,White or Caucasian
+5,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,R,1.0,4.0,4.0,4.0,0.0,1.0,Difficult,Compensation and Benefits,Male,44,United States,Unknown,Black or African American
+6,Data Analyst,20000.0,Yes,Construction and Real Estate,Python,2.0,3.0,3.0,3.0,3.0,2.0,Difficult,Work-Life Balance,Male,33,Democratic Republic of the Congo,Unknown,Black or African American
+7,Data Scientist,20000.0,Yes,Finance and Banking,Python,0.0,6.0,6.0,6.0,6.0,5.0,Difficult,Compensation and Benefits,Male,24,Other,Unknown,Black or African American
+8,Data Engineer,137500.0,Yes,Retail and E-commerce,SQL,10.0,5.0,5.0,5.0,5.0,9.0,Neither easy nor difficult,Work Environment Preferences,Male,35,United States,Unknown,Asian
+9,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,R,4.0,4.0,4.0,4.0,5.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,35,United States,Unknown,Asian
+10,Data Analyst,53000.0,Yes,Telecommunications,Python,2.0,0.0,3.0,3.0,0.0,4.0,Very Difficult,Compensation and Benefits,Male,28,United States,Unknown,Hispanic or Latino
+11,Data Analyst,75500.0,Yes,Logistics and Distribution,Python,10.0,10.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,37,Canada,Unknown,White or Caucasian
+12,Data Analyst,20000.0,Yes,Technology and Entertainment,Python,3.0,8.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,32,Serbia,Unknown,White or Caucasian
+13,Data Analyst,20000.0,Yes,Technology and Information Technology,R,1.0,10.0,9.0,9.0,5.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,34,Argentina,Unknown,Hispanic or Latino
+14,Data Scientist,20000.0,Yes,Education,Python,3.0,10.0,10.0,6.0,7.0,8.0,Easy,Work-Life Balance,Male,30,United Kingdom,Unknown,White or Caucasian
+15,Data Analyst,53000.0,No,Construction and Real Estate,R,4.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Work Environment,Male,31,United States,Unknown,White or Caucasian
+16,Data Analyst,53000.0,Yes,Finance and Banking,Python,4.0,10.0,7.0,7.0,7.0,5.0,Difficult,Work Environment,Male,29,United States,Unknown,White or Caucasian
+17,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,1.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Compensation and Benefits,Male,22,Niger,Unknown,Black or African American
+18,None,20000.0,Yes,Retail and E-commerce,Python,1.0,3.0,2.0,2.0,4.0,1.0,Difficult,Compensation and Benefits,Male,23,United States,Unknown,Black or African American
+19,None,53000.0,No,Technology and Information Technology,R,7.0,8.0,8.0,6.0,8.0,3.0,Very Difficult,Compensation and Benefits,Female,26,Canada,Unknown,Asian
+20,Data Analyst,20000.0,No,Aerospace and Defense,Python,1.0,1.0,1.0,1.0,2.0,0.0,Very Difficult,Compensation and Benefits,Male,28,Nigeria,Unknown,Black or African American
+21,Data Analyst,53000.0,Yes,Finance and Banking,Python,5.0,5.0,5.0,5.0,5.0,5.0,Easy,Work Environment Preferences,Male,29,Kenya,Unknown,Black or African American
+22,Data Analyst,115500.0,Yes,Technology and Information Technology,SQL,10.0,5.0,10.0,6.0,10.0,10.0,Neither easy nor difficult,Work Environment Preferences,Female,31,United States,Unknown,White or Caucasian
+23,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,5.0,6.0,8.0,8.0,7.0,1.0,Neither easy nor difficult,Work Environment Preferences,Male,28,Azerbaijan,Unknown,White or Caucasian
+24,Data Analyst,20000.0,No,Finance and Banking,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,32,Argentina,Unknown,Hispanic or Latino
+25,Data Analyst,20000.0,No,Technology and Information Technology,Python,7.0,8.0,8.0,8.0,3.0,8.0,Easy,Compensation and Benefits,Male,24,Sudan,Unknown,Black or African American
+26,Data Analyst,20000.0,No,Technology and Information Technology,Python,4.0,6.0,6.0,6.0,7.0,7.0,Easy,Work-Life Balance,Male,31,India,Unknown,Asian
+27,Data Analyst,75500.0,No,Finance and Insurance,SQL,7.0,10.0,5.0,5.0,5.0,2.0,Difficult,Job Role and Responsibilities,Male,23,United States,Unknown,White or Caucasian
+28,Data Analyst,115500.0,Yes,Energy and Utilities,Python,1.0,6.0,9.0,1.0,0.0,2.0,Difficult,Work Environment Preferences,Female,33,United States,Unknown,Asian
+29,Data Analyst,95500.0,No,Healthcare and Biotechnology,None,6.0,7.0,7.0,7.0,7.0,4.0,Very Easy,Compensation and Benefits,Male,43,United States,Unknown,White or Caucasian
+30,None,20000.0,Yes,Energy and Utilities,R,0.0,0.0,5.0,0.0,0.0,0.0,Very Difficult,Work Environment Preferences,Female,23,Nigeria,Unknown,African
+31,None,53000.0,Yes,Finance and Banking,Python,10.0,7.0,10.0,10.0,5.0,3.0,Very Difficult,Work-Life Balance,Male,31,United States,Unknown,Black or African American
+32,Data Analyst,75500.0,Yes,Finance and Banking,Python,5.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Career Progression,Male,31,United Kingdom,Unknown,White or Caucasian
+33,Data Analyst,20000.0,Yes,Other,Python,8.0,7.0,8.0,7.0,7.0,7.0,Difficult,Work-Life Balance,Male,25,India,Unknown,Asian
+34,Data Engineer,137500.0,No,Technology and Information Technology,SQL,8.0,10.0,10.0,9.0,9.0,9.0,Easy,Compensation and Benefits,Male,43,United States,Unknown,White or Caucasian
+35,Data Analyst,53000.0,No,Finance and Banking,Python,2.0,3.0,5.0,5.0,5.0,5.0,Difficult,Compensation and Benefits,Female,26,Canada,Unknown,Asian
+36,Analyst,53000.0,No,Manufacturing and Industrial,Python,5.0,10.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Work Environment Preferences,Male,32,Japan,Unknown,White or Caucasian
+37,Developer,20000.0,No,Technology and Information Technology,Python,2.0,9.0,7.0,7.0,5.0,6.0,Difficult,Compensation and Benefits,Male,31,Greece,Unknown,White or Caucasian
+38,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,SQL,3.0,5.0,6.0,4.0,4.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,29,United States,Unknown,White or Caucasian
+39,Data Analyst,20000.0,Yes,Manufacturing and Industrial,Python,3.0,1.0,3.0,2.0,3.0,1.0,Neither easy nor difficult,Work Environment,Male,24,Peru,Unknown,Hispanic or Latino
+40,None,53000.0,Yes,Construction and Real Estate,Python,2.0,0.0,2.0,2.0,0.0,0.0,Very Difficult,Work Environment Preferences,Male,34,United States,Unknown,White or Caucasian
+41,Data Analyst,53000.0,Yes,Energy and Utilities,None,5.0,6.0,6.0,5.0,4.0,6.0,Very Difficult,Compensation and Benefits,Male,42,Australia,Unknown,Asian
+42,None,20000.0,Yes,Other,JavaScript,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Work Environment Preferences,Female,40,United States,Unknown,Asian
+43,None,53000.0,No,Telecommunications,Python,3.0,1.0,3.0,4.0,0.0,3.0,Easy,Work-Life Balance,Male,43,Spain,Unknown,White or Caucasian
+44,None,20000.0,Yes,Construction and Real Estate,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation and Benefits,Male,23,Kenya,Unknown,African
+45,None,20000.0,Yes,Education,Python,5.0,5.0,3.0,5.0,2.0,6.0,Difficult,Compensation and Benefits,Male,23,Japan,Unknown,Asian
+46,Data Analyst,95500.0,Yes,Manufacturing and Industrial,Python,8.0,6.0,2.0,3.0,6.0,7.0,Neither easy nor difficult,Various,Male,28,United States,Unknown,White or Caucasian
+47,Data Analyst,75500.0,No,Finance and Banking,SQL,5.0,7.0,1.0,1.0,0.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,32,United States,Unknown,White or Caucasian
+48,Data Analyst,75500.0,Yes,Manufacturing and Chemicals,R,7.0,8.0,10.0,8.0,9.0,9.0,Difficult,Work Environment Preferences,Female,41,United States,Unknown,White or Caucasian
+49,Data Analyst,53000.0,Yes,Finance and Banking,Python,5.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Work Environment Preferences,Male,33,United Kingdom,High School,White or Caucasian
+50,Manager,187500.0,Yes,Technology and Information Technology,Python,10.0,8.0,9.0,8.0,8.0,10.0,Easy,Work-Life Balance,Male,38,United States,Unknown,Hispanic or Latino
+51,Data Analyst,20000.0,No,Technology and Information Technology,SQL,8.0,8.0,8.0,8.0,5.0,10.0,Easy,Compensation and Benefits,Female,22,India,Unknown,Asian
+52,None,20000.0,Yes,Other,R,1.0,3.0,6.0,6.0,6.0,9.0,Difficult,Work Environment Preferences,Male,36,Barbados,Bachelors,Black or African American
+53,Data Engineer,75500.0,No,Finance and Banking,Python,2.0,1.0,1.0,1.0,3.0,7.0,Easy,Work Environment Preferences,Female,28,United States,Masters,Asian
+54,None,20000.0,Yes,Other,SQL,Unknown,Unknown,Unknown,Unknown,Unknown,7.0,Very Easy,Various,Male,30,South Africa,Unknown,Black or African American
+55,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,6.0,6.0,6.0,6.0,5.0,6.0,Difficult,No Preference,Female,24,United States,Bachelors,Hispanic or Latino
+56,Analyst,53000.0,No,Logistics and Distribution,C/C++,3.0,6.0,7.0,7.0,0.0,3.0,Very Difficult,Compensation and Benefits,Male,29,United States,Bachelors,White or Caucasian
+57,Data Analyst,20000.0,No,Technology and Information Technology,Python,4.0,9.0,10.0,9.0,9.0,10.0,Easy,Compensation and Benefits,Male,29,Colombia,Associates,Hispanic or Latino
+58,Analyst,53000.0,Yes,Manufacturing and Industrial,Python,6.0,8.0,8.0,7.0,9.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,38,Germany,Masters,White or Caucasian
+59,Data Analyst,20000.0,Yes,Finance and Banking,None,3.0,5.0,4.0,3.0,3.0,3.0,Difficult,Work-Life Balance,Male,31,Bulgaria,Masters,White or Caucasian
+60,None,20000.0,No,Technology and Information Technology,Python,1.0,4.0,5.0,5.0,1.0,1.0,Difficult,Compensation and Benefits,Male,25,United States,Masters,White or Caucasian
+61,Data Analyst,75500.0,No,Telecommunications,Python,4.0,6.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,24,United States,Masters,White or Caucasian
+62,Consultant,53000.0,Yes,Technology and Information Technology,Python,6.0,7.0,4.0,3.0,9.0,8.0,Difficult,Compensation and Benefits,Male,28,Turkey,Bachelors,White or Caucasian
+63,None,20000.0,No,Technology and Information Technology,Python,7.0,5.0,8.0,0.0,0.0,0.0,Neither easy nor difficult,Work Environment,Female,23,India,Bachelors,Asian
+64,Data Engineer,20000.0,No,Technology and Information Technology,R,2.0,3.0,2.0,5.0,5.0,7.0,Neither easy nor difficult,Work Environment Preferences,Male,21,Spain,Masters,Hispanic or Latino
+65,Data Analyst,20000.0,No,Energy and Utilities,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Work Environment Preferences,Male,29,France,Bachelors,Prefer not to say
+66,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,5.0,6.0,7.0,7.0,7.0,6.0,Difficult,Compensation and Benefits,Male,25,United States,Bachelors,Asian
+67,Data Analyst,53000.0,No,Technology and Information Technology,Python,6.0,6.0,6.0,6.0,3.0,5.0,Difficult,Work Environment,Male,27,Germany,Masters,Black or African American
+68,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,9.0,10.0,8.0,9.0,9.0,Easy,Compensation and Benefits,Male,23,India,Bachelors,Asian
+69,Analyst,95500.0,No,Food and Beverage,R,4.0,3.0,3.0,5.0,5.0,5.0,Difficult,Compensation and Benefits,Male,32,United States,Masters,Asian
+70,None,115500.0,Yes,Healthcare and Biotechnology,Python,5.0,5.0,7.0,5.0,7.0,7.0,Neither easy nor difficult,Work Environment Preferences,Male,22,India,Bachelors,Asian
+71,Data Analyst,20000.0,No,Technology and Information Technology,Python,2.0,9.0,9.0,8.0,6.0,2.0,Easy,Compensation and Benefits,Male,25,Thailand,Bachelors,Asian
+72,Data Analyst,20000.0,Yes,Telecommunications,Python,2.0,8.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Work Environment Preferences,Female,36,Germany,Masters,White or Caucasian
+73,Data Analyst,115500.0,Yes,Technology and Information Technology,SQL,10.0,6.0,9.0,5.0,8.0,7.0,Easy,Work-Life Balance,Female,27,United States,Bachelors,White or Caucasian
+74,Analyst,20000.0,Yes,Technology and Information Technology,Python,5.0,5.0,5.0,5.0,5.0,1.0,Neither easy nor difficult,Various,Male,23,India,Bachelors,Asian
+75,None,20000.0,Yes,Technology and Information Technology,SQL,2.0,3.0,3.0,3.0,3.0,6.0,Very Difficult,Compensation and Benefits,Male,26,Netherlands,Bachelors,Black or African American
+76,Director,95500.0,No,Healthcare and Biotechnology,Python,9.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Work-Life Balance,Female,33,United States,PhD,Hispanic or Latino
+77,Data Analyst,115500.0,Yes,Manufacturing and Industrial,Python,3.0,5.0,3.0,3.0,5.0,5.0,Easy,Compensation and Benefits,Male,27,Turkey,Masters,White or Caucasian
+78,Data Analyst,53000.0,Yes,Education,R,3.0,6.0,5.0,4.0,3.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,42,United States,Associates,White or Caucasian
+79,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,6.0,7.0,8.0,7.0,7.0,8.0,Easy,Work-Life Balance,Male,29,Spain,Masters,White or Caucasian
+80,Data Analyst,137500.0,No,Technology and Information Technology,Python,4.0,7.0,6.0,4.0,2.0,4.0,Easy,Compensation and Benefits,Female,27,United States,Masters,Asian
+81,None,53000.0,No,Healthcare and Biotechnology,Python,0.0,10.0,10.0,10.0,4.0,2.0,Neither easy nor difficult,Work Environment Preferences,Female,39,United States,Bachelors,Hispanic or Latino
+82,Data Analyst,53000.0,Yes,Telecommunications,Python,6.0,6.0,7.0,5.0,6.0,7.0,Difficult,Work Environment,Male,31,Denmark,Masters,White or Caucasian
+83,Data Analyst,75500.0,Yes,Marketing and Advertising,Python,7.0,7.0,5.0,9.0,7.0,8.0,Easy,Work-Life Balance,Male,29,Brazil,Bachelors,Hispanic or Latino
+84,Data Analyst,75500.0,Yes,Education,R,7.0,7.0,7.0,7.0,4.0,7.0,Easy,Work Environment Preferences,Male,31,United States,Masters,White or Caucasian
+85,Data Analyst,20000.0,Yes,Finance and Banking,Python,10.0,9.0,9.0,10.0,9.0,10.0,Neither easy nor difficult,Work Environment,Male,30,Mexico,Masters,Hispanic or Latino
+86,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,7.0,8.0,6.0,5.0,5.0,9.0,Difficult,Compensation and Benefits,Male,33,Mexico,Masters,Hispanic or Latino
+87,Data Analyst,75500.0,No,Retail and E-commerce,Python,7.0,8.0,9.0,7.0,7.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United States,Bachelors,White or Caucasian
+88,None,20000.0,No,Technology and Information Technology,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,23,India,Bachelors,Asian
+89,Data Analyst,53000.0,Yes,Advertising and Marketing,None,4.0,4.0,3.0,3.0,5.0,6.0,Very Difficult,Compensation and Benefits,Male,33,United States,Bachelors,Asian
+90,Analyst,75500.0,Yes,Logistics and Distribution,Python,7.0,9.0,9.0,8.0,8.0,9.0,Neither easy nor difficult,Work-Life Balance,Male,35,Chile,Bachelors,Hispanic or Latino
+91,Data Analyst,53000.0,No,Recruting,Python,6.0,8.0,5.0,Unknown,6.0,9.0,Neither easy nor difficult,Work Environment Preferences,Female,42,Greece,Masters,White or Caucasian
+92,Data Analyst,75500.0,No,Technology and Information Technology,Python,3.0,4.0,2.0,1.0,0.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United States,Bachelors,White or Caucasian
+93,Data Analyst,95500.0,No,Manufacturing and Industrial,Python,5.0,4.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Career Progression,Male,23,United States,Bachelors,White or Caucasian
+94,Specialist,53000.0,No,Healthcare and Biotechnology,JavaScript,2.0,4.0,6.0,5.0,3.0,4.0,Easy,Compensation and Benefits,Female,51,United States,Bachelors,Black or African American
+95,Data Analyst,20000.0,No,Telecommunications,None,1.0,4.0,4.0,3.0,2.0,6.0,Very Difficult,Compensation and Benefits,Male,30,United Kingdom,Bachelors,Black or African American
+96,Data Analyst,53000.0,Yes,Finance and Banking,Python,8.0,9.0,9.0,9.0,9.0,8.0,Very Difficult,Compensation and Benefits,Male,23,India,Bachelors,Asian
+97,Analyst,53000.0,Yes,Advertising and Marketing,R,3.0,5.0,5.0,6.0,3.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,24,Canada,Bachelors,Asian
+98,None,53000.0,Yes,Technology and Information Technology,Python,6.0,6.0,6.0,6.0,6.0,6.0,Easy,Work Environment,Male,25,Australia,Masters,Asian
+99,Data Analyst,53000.0,Yes,Finance and Banking,Python,4.0,4.0,6.0,4.0,5.0,6.0,Difficult,Compensation and Benefits,Female,55,United States,Masters,Prefer not to say
+100,Data Analyst,95500.0,No,Biotecnology,R,8.0,10.0,8.0,7.0,8.0,10.0,Very Easy,Work Environment Preferences,Female,30,United States,Masters,White or Caucasian
+101,Data Analyst,53000.0,Yes,Professional Services,Python,9.0,9.0,9.0,9.0,7.0,4.0,Difficult,Compensation and Benefits,Male,25,Canada,Bachelors,Asian
+102,Data Analyst,75500.0,Yes,Technology and Electronics,Python,6.0,9.0,7.0,6.0,7.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,28,United States,Masters,White or Caucasian
+103,Analyst,53000.0,Yes,Professional Services,Python,8.0,8.0,9.0,9.0,10.0,10.0,Very Easy,Compensation and Benefits,Male,34,United Kingdom,Bachelors,White or Caucasian
+104,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,8.0,10.0,9.0,9.0,10.0,8.0,Neither easy nor difficult,Compensation and Benefits,Female,28,Costa Rica,Bachelors,Hispanic or Latino
+105,None,20000.0,No,Manufacturing and Industrial,None,7.0,9.0,7.0,8.0,8.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,24,Vietnam,Bachelors,Asian
+106,None,20000.0,Yes,Healthcare and Biotechnology,Python,3.0,7.0,7.0,7.0,1.0,2.0,Difficult,Compensation and Benefits,Male,31,United States,Masters,Black or African American
+107,Data Analyst,53000.0,Yes,Logistics and Distribution,None,3.0,6.0,6.0,6.0,4.0,4.0,Easy,Compensation and Benefits,Male,25,Canada,Bachelors,Asian
+108,Data Analyst,115500.0,Yes,Finance and Banking,Python,5.0,1.0,4.0,3.0,3.0,4.0,Easy,Compensation and Benefits,Female,38,United States,Bachelors,White or Caucasian
+109,Data Analyst,53000.0,No,Finance and Banking,Python,5.0,5.0,5.0,5.0,4.0,5.0,Neither easy nor difficult,Work Environment,Male,30,Netherlands,Bachelors,Hispanic or Latino
+110,Data Analyst,20000.0,Yes,Technology and Information Technology,C/C++,0.0,0.0,0.0,2.0,2.0,5.0,Neither easy nor difficult,Work-Life Balance,Male,25,India,Bachelors,Asian
+111,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,1.0,2.0,1.0,5.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,29,Nigeria,Bachelors,Black or African American
+112,Data Scientist,187500.0,Yes,Finance and Banking,Python,7.0,5.0,3.0,6.0,4.0,4.0,Difficult,Work-Life Balance,Male,21,Portugal,Masters,White or Caucasian
+113,Data Analyst,75500.0,Yes,Logistics and Distribution,SQL,5.0,8.0,8.0,7.0,6.0,7.0,Very Easy,Work Environment Preferences,Female,39,United States,Bachelors,Asian
+114,None,20000.0,No,Other,Python,0.0,0.0,0.0,0.0,0.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Turkey,Bachelors,White or Caucasian
+115,Analyst,95500.0,Yes,Finance and Banking,None,7.0,9.0,10.0,6.0,4.0,4.0,Neither easy nor difficult,Career Progression,Female,42,United States,Masters,Hispanic or Latino
+116,Data Analyst,53000.0,No,Technology and Information Technology,R,10.0,8.0,9.0,10.0,10.0,10.0,Easy,Compensation and Benefits,Male,25,United States,Bachelors,White or Caucasian
+117,Data Scientist,95500.0,No,Finance and Banking,Python,8.0,7.0,6.0,6.0,5.0,9.0,Neither easy nor difficult,Compensation and Benefits,Male,22,United States,Bachelors,White or Caucasian
+118,Data Analyst,20000.0,No,Service Industry,Python,1.0,4.0,4.0,3.0,Unknown,5.0,Easy,Compensation and Benefits,Male,23,Colombia,High School,Hispanic or Latino
+119,Data Engineer,53000.0,Yes,Retail and E-commerce,JavaScript,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Work Environment,Male,25,Egypt,High School,Middle Eastern
+120,Data Engineer,75500.0,Yes,Professional Services,Python,5.0,7.0,7.0,6.0,6.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,45,Canada,Masters,White or Caucasian
+121,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,None,7.0,3.0,8.0,6.0,8.0,8.0,Easy,Work-Life Balance,Male,24,United States,Bachelors,White or Caucasian
+122,None,20000.0,No,Government and Public Sector,R,1.0,9.0,6.0,0.0,0.0,0.0,Difficult,Compensation and Benefits,Male,25,United States,Unknown,Black or African American
+123,Data Analyst,75500.0,Yes,Marketing and Advertising,Python,9.0,8.0,9.0,9.0,8.0,8.0,Difficult,Work-Life Balance,Male,26,United States,Bachelors,White or Caucasian
+124,Data Analyst,53000.0,No,Technology and Information Technology,R,4.0,7.0,8.0,8.0,5.0,7.0,Easy,Compensation and Benefits,Male,23,Canada,Bachelors,Asian
+125,None,20000.0,Yes,"Arts, Culture, and Entertainment",Python,1.0,1.0,1.0,0.0,0.0,3.0,Difficult,Work Environment Preferences,Female,42,United Kingdom,Masters,White or Caucasian
+126,Teacher,53000.0,Yes,Education,None,0.0,0.0,2.0,0.0,0.0,0.0,Very Difficult,Work-Life Balance,Female,42,United States,Bachelors,Black or African American
+127,Analyst,20000.0,No,Technology and Information Technology,Python,0.0,6.0,5.0,5.0,3.0,1.0,Neither easy nor difficult,Compensation and Benefits,Male,25,India,Masters,Asian
+128,Data Analyst,95500.0,Yes,Technology and Information Technology,R,8.0,10.0,10.0,10.0,2.0,7.0,Easy,Work Environment Preferences,Male,38,United States,Masters,White or Caucasian
+129,Engineer,20000.0,No,Technology and Information Technology,Python,5.0,6.0,6.0,6.0,6.0,4.0,Easy,Compensation and Benefits,Male,24,Costa Rica,Bachelors,Hispanic or Latino
+130,Data Analyst,75500.0,Yes,Education,R,7.0,10.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Work-Life Balance,Male,28,United States,Bachelors,White or Caucasian
+131,Data Analyst,53000.0,No,Healthcare and Biotechnology,Python,1.0,2.0,8.0,7.0,0.0,0.0,Difficult,Compensation and Benefits,Male,21,United States,Bachelors,Asian
+132,Data Analyst,115500.0,Yes,Healthcare and Biotechnology,R,10.0,10.0,10.0,10.0,10.0,10.0,Very Easy,Work Environment,Male,39,United States,Masters,White or Caucasian
+133,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,4.0,5.0,5.0,5.0,6.0,8.0,Difficult,Work-Life Balance,Male,23,Pakistan,Bachelors,Asian
+134,Data Analyst,20000.0,No,Government and Public Sector,R,1.0,6.0,4.0,3.0,5.0,6.0,Neither easy nor difficult,Work-Life Balance,Female,23,Australia,Bachelors,White or Caucasian
+135,Data Analyst,75500.0,Yes,Logistics and Distribution,R,8.0,9.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Work-Life Balance,Male,30,United States,Masters,White or Caucasian
+136,Data Analyst,53000.0,No,Manufacturing and Industrial,Python,2.0,6.0,2.0,3.0,2.0,2.0,Easy,Compensation and Benefits,Male,26,Ireland,Masters,White or Caucasian
+137,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,R,3.0,6.0,4.0,6.0,4.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,37,United States,Bachelors,White or Caucasian
+138,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,Python,3.0,5.0,4.0,5.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Female,31,United States,Bachelors,White or Caucasian
+139,Data Analyst,20000.0,Yes,Finance and Banking,C/C++,5.0,2.0,4.0,3.0,3.0,3.0,Difficult,Work-Life Balance,Female,25,South Africa,Bachelors,Black or African American
+140,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,2.0,6.0,6.0,5.0,4.0,5.0,Easy,Compensation and Benefits,Female,26,Poland,Bachelors,White or Caucasian
+141,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,SQL,7.0,8.0,8.0,8.0,8.0,7.0,Very Easy,Compensation and Benefits,Male,30,United States,Bachelors,White or Caucasian
+142,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,9.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Compensation and Benefits,Female,39,United States,Bachelors,Black or African American
+143,Associate,20000.0,No,Education,Python,1.0,1.0,1.0,0.0,0.0,2.0,Easy,Work-Life Balance,Female,28,India,Masters,Asian
+144,Data Analyst,75500.0,Yes,Finance and Banking,SQL,8.0,8.0,7.0,7.0,10.0,10.0,Very Easy,Work-Life Balance,Male,22,United States,Bachelors,Bi-racial/Multi-racial
+145,Data Analyst,20000.0,Yes,Telecommunications,Python,3.0,2.0,4.0,2.0,2.0,2.0,Neither easy nor difficult,Work Environment,Male,28,Mozambique,Bachelors,Black or African American
+146,Manager,187500.0,No,Technology and Information Technology,R,8.0,10.0,9.0,7.0,5.0,5.0,Neither easy nor difficult,Work Environment Preferences,Male,33,United States,Masters,White or Caucasian
+147,Data Analyst,20000.0,Yes,Finance and Banking,SQL,2.0,3.0,3.0,3.0,2.0,4.0,Neither easy nor difficult,Work-Life Balance,Female,22,Egypt,Bachelors,Bi-racial/Multi-racial
+148,None,20000.0,No,Technology and Information Technology,Python,3.0,5.0,5.0,4.0,4.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,27,India,Bachelors,Prefer not to say
+149,Data Analyst,115500.0,Yes,Professional Services,DAX,8.0,8.0,8.0,8.0,10.0,10.0,Easy,Work-Life Balance,Male,37,United States,Bachelors,Prefer not to say
+150,Analyst,53000.0,No,Wholesale and Distribution,R,3.0,4.0,5.0,5.0,4.0,3.0,Difficult,Compensation and Benefits,Male,24,United States,Masters,White or Caucasian
+151,Data Analyst,53000.0,No,Healthcare and Biotechnology,R,1.0,4.0,3.0,2.0,0.0,6.0,Difficult,Compensation and Benefits,Male,25,United Kingdom,Masters,Asian
+152,Data Engineer,95500.0,No,Healthcare and Biotechnology,R,8.0,10.0,8.0,8.0,9.0,10.0,Neither easy nor difficult,Work Environment,Male,28,United States,Masters,Black or African American
+153,Data Analyst,53000.0,Yes,Energy and Utilities,Python,5.0,5.0,7.0,7.0,7.0,7.0,Easy,Compensation and Benefits,Male,32,United Kingdom,Bachelors,White or Caucasian
+154,Data Analyst,53000.0,Yes,Government and Public Sector,Python,0.0,7.0,7.0,7.0,0.0,7.0,Easy,Work Environment,Male,29,United States,Bachelors,Asian
+155,Data Analyst,53000.0,No,Healthcare and Biotechnology,R,7.0,5.0,8.0,6.0,5.0,10.0,Difficult,Job Satisfaction,Female,26,Australia,Masters,White or Caucasian
+156,Data Engineer,53000.0,Yes,Technology and Information Technology,Python,0.0,7.0,5.0,0.0,0.0,7.0,Neither easy nor difficult,Work Environment Preferences,Male,37,Canada,Masters,White or Caucasian
+157,Data Analyst,53000.0,No,Logistics and Distribution,R,4.0,6.0,5.0,4.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United States,Bachelors,White or Caucasian
+158,Data Analyst,20000.0,No,Finance and Banking,SQL,4.0,4.0,5.0,6.0,6.0,0.0,Difficult,Compensation and Benefits,Male,24,Israel,High School,White or Caucasian
+159,Manager,137500.0,No,Finance and Banking,SQL,7.0,8.0,8.0,8.0,7.0,8.0,Easy,Compensation and Benefits,Male,52,United States,Bachelors,White or Caucasian
+160,Data Analyst,53000.0,Yes,Finance and Banking,Python,6.0,10.0,3.0,5.0,0.0,10.0,Difficult,Work Environment,Male,27,Singapore,Bachelors,Asian
+161,Data Analyst,115500.0,No,Healthcare and Biotechnology,None,6.0,6.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Compensation and Benefits,Female,29,United States,Masters,White or Caucasian
+162,None,20000.0,No,Technology and Information Technology,Python,3.0,7.0,6.0,7.0,0.0,0.0,Difficult,Compensation and Benefits,Male,42,Brazil,Associates,White or Caucasian
+163,Data Analyst,53000.0,Yes,Telecommunications,R,3.0,5.0,6.0,4.0,3.0,7.0,Difficult,Various,Male,28,United States,Masters,White or Caucasian
+164,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,8.0,8.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Work-Life Balance,Male,44,Costa Rica,Bachelors,Hispanic or Latino
+165,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,5.0,5.0,6.0,5.0,6.0,7.0,Neither easy nor difficult,Work Environment Preferences,Male,23,Spain,Bachelors,White or Caucasian
+166,Data Analyst,53000.0,No,"Arts, Culture, and Entertainment",R,1.0,2.0,6.0,4.0,2.0,0.0,Easy,Compensation and Benefits,Male,27,United States,Bachelors,Hispanic or Latino
+167,Data Analyst,75500.0,No,Construction and Real Estate,Python,3.0,3.0,3.0,2.0,2.0,1.0,Neither easy nor difficult,Work Environment,Male,26,United States,Masters,White or Caucasian
+168,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,VBA,3.0,4.0,4.0,4.0,1.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,27,United States,Masters,Hispanic or Latino
+169,Data Analyst,75500.0,Yes,Retail and E-commerce,Python,0.0,0.0,7.0,1.0,0.0,9.0,Difficult,Compensation and Benefits,Male,33,Canada,Bachelors,Asian
+170,Data Analyst,75500.0,Yes,Aerospace and Defense,Python,8.0,10.0,10.0,10.0,10.0,10.0,Easy,Compensation and Benefits,Male,28,United States,Bachelors,Hispanic or Latino
+171,Data Analyst,20000.0,Yes,Technology and Information Technology,R,2.0,8.0,8.0,7.0,6.0,9.0,Neither easy nor difficult,Compensation and Benefits,Male,32,Kenya,Bachelors,Black or African American
+172,None,53000.0,Yes,Food and Beverage,Python,2.0,4.0,6.0,1.0,1.0,1.0,Very Difficult,Compensation and Benefits,Male,34,Canada,Associates,Asian
+173,Data Analyst,187500.0,No,Technology and Information Technology,Python,10.0,10.0,10.0,8.0,10.0,10.0,Easy,Work-Life Balance,Male,28,United States,Bachelors,Asian
+174,Data Scientist,137500.0,Yes,Telecommunications,Python,2.0,4.0,1.0,3.0,1.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,27,India,Bachelors,Asian
+175,Data Engineer,53000.0,Yes,Finance and Banking,Python,2.0,4.0,5.0,5.0,4.0,6.0,Difficult,Compensation and Benefits,Male,22,United States,Bachelors,White or Caucasian
+176,Data Analyst,75500.0,No,Healthcare and Biotechnology,Python,3.0,3.0,4.0,1.0,2.0,2.0,Neither easy nor difficult,Compensation and Benefits,Male,29,United States,Masters,White or Caucasian
+177,Data Analyst,75500.0,No,Healthcare and Biotechnology,Python,8.0,10.0,10.0,8.0,5.0,7.0,Neither easy nor difficult,Work-Life Balance,Female,31,United States,Masters,White or Caucasian
+178,Data Analyst,75500.0,No,Technology and Information Technology,Python,4.0,5.0,5.0,5.0,4.0,4.0,Easy,Work Environment Preferences,Male,28,United States,Bachelors,White or Caucasian
+179,None,20000.0,No,Healthcare and Biotechnology,Python,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,24,United States,Masters,Asian
+180,Data Analyst,95500.0,No,Government and Public Sector,Stata,4.0,5.0,3.0,4.0,2.0,3.0,Easy,Work Environment,Male,34,United States,Masters,White or Caucasian
+181,Data Engineer,95500.0,No,Technology and Information Technology,Python,5.0,3.0,5.0,5.0,4.0,5.0,Difficult,Compensation and Benefits,Male,23,United States,Bachelors,White or Caucasian
+182,None,53000.0,No,Construction and Real Estate,None,10.0,4.0,10.0,10.0,4.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,32,Belgium,Masters,White or Caucasian
+183,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,R,6.0,8.0,6.0,6.0,8.0,10.0,Easy,Work Environment Preferences,Male,29,Argentina,High School,Hispanic or Latino
+184,Data Analyst,20000.0,Yes,Education,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation and Benefits,Male,34,Nigeria,Bachelors,Black or African American
+185,Data Analyst,75500.0,No,Finance and Banking,Python,7.0,5.0,5.0,7.0,9.0,10.0,Very Easy,Work Environment Preferences,Male,24,United Kingdom,Bachelors,White or Caucasian
+186,Analyst,75500.0,No,Technology and Information Technology,Python,0.0,10.0,6.0,0.0,0.0,0.0,Difficult,Compensation and Benefits,Male,30,United States,Bachelors,Asian
+187,Engineer,95500.0,No,"Arts, Culture, and Entertainment",Python,5.0,5.0,6.0,4.0,5.0,5.0,Difficult,Compensation and Benefits,Male,24,United States,Masters,Hispanic or Latino
+188,Data Analyst,53000.0,Yes,Finance and Insurance,Python,6.0,8.0,10.0,9.0,7.0,9.0,Easy,Compensation and Benefits,Male,27,United States,Bachelors,Prefer not to say
+189,Data Analyst,20000.0,No,Finance and Banking,Python,1.0,2.0,4.0,4.0,4.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,21,India,Bachelors,Asian
+190,Data Analyst,20000.0,No,Logistics and Distribution,Python,3.0,5.0,9.0,9.0,Unknown,8.0,Very Difficult,Various,Male,31,United Arab Emirates,Masters,Black or African American
+191,Data Analyst,20000.0,Yes,Telecommunications,R,5.0,7.0,5.0,5.0,5.0,7.0,Difficult,Compensation and Benefits,Male,41,Egypt,Bachelors,White or Caucasian
+192,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,0.0,1.0,1.0,0.0,0.0,2.0,Difficult,Compensation and Benefits,Male,25,India,Bachelors,Asian
+193,Data Analyst,20000.0,No,Finance and Banking,None,4.0,7.0,8.0,8.0,8.0,9.0,Neither easy nor difficult,Various,Male,24,Nigeria,Bachelors,Black or African American
+194,Data Analyst,20000.0,No,Finance and Banking,Python,6.0,5.0,6.0,5.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Somalia,Masters,African
+195,Data Analyst,187500.0,No,Finance and Banking,None,7.0,7.0,7.0,Unknown,5.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,33,United States,Bachelors,White or Caucasian
+196,Data Analyst,75500.0,No,Energy and Utilities,None,7.0,4.0,10.0,9.0,7.0,10.0,Difficult,Compensation and Benefits,Male,23,United States,Bachelors,Hispanic or Latino
+197,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,6.0,6.0,6.0,6.0,6.0,6.0,Difficult,Work Environment Preferences,Female,33,United Kingdom,Masters,Asian
+198,Data Analyst,115500.0,No,Finance and Banking,Python,4.0,4.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United States,Bachelors,White or Caucasian
+199,Data Analyst,20000.0,No,Marketing and Advertising,Python,5.0,5.0,5.0,5.0,5.0,5.0,Neither easy nor difficult,Work Environment Preferences,Female,27,Kosovo,Masters,White or Caucasian
+200,Data Analyst,20000.0,Yes,Finance and Banking,C/C++,5.0,10.0,10.0,8.0,10.0,10.0,Very Easy,Work-Life Balance,Male,30,United Kingdom,Bachelors,White or Caucasian
+201,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,0.0,3.0,Unknown,Unknown,Unknown,6.0,Neither easy nor difficult,Work Environment Preferences,Male,29,Nigeria,Bachelors,Black or African American
+202,Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,10.0,2.0,8.0,5.0,0.0,6.0,Easy,Compensation and Benefits,Male,25,India,Masters,Asian
+203,Data Analyst,95500.0,No,Telecommunications,None,7.0,7.0,5.0,7.0,7.0,7.0,Easy,Work Environment Preferences,Male,40,United States,High School,Hispanic or Latino
+204,Data Analyst,53000.0,No,Government and Public Sector,None,6.0,10.0,8.0,8.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Female,29,Canada,Bachelors,Prefer not to say
+205,Data Analyst,53000.0,No,Other,Python,0.0,3.0,3.0,3.0,3.0,Unknown,Difficult,Work Environment Preferences,Male,29,India,Masters,Asian
+206,Data Analyst,20000.0,Yes,Education,Python,1.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,28,Nigeria,Masters,Black or African American
+207,Engineer,95500.0,No,Hospitality and Tourism,C#,5.0,2.0,0.0,2.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,34,United Kingdom,Bachelors,White or Caucasian
+208,None,20000.0,No,Technology and Information Technology,Python,0.0,4.0,7.0,6.0,7.0,8.0,Easy,Professional Development,Male,24,Belgium,Masters,White or Caucasian
+209,Data Analyst,20000.0,Yes,Telecommunications,Python,5.0,8.0,8.0,9.0,7.0,9.0,Very Easy,Compensation and Benefits,Male,26,Iraq,Bachelors,Middle Eastern
+210,Data Analyst,137500.0,No,Technology and Information Technology,Python,10.0,5.0,10.0,10.0,6.0,10.0,Difficult,Work-Life Balance,Male,28,United States,Bachelors,Hispanic or Latino
+211,None,20000.0,No,Education,R,5.0,4.0,4.0,4.0,5.0,5.0,Difficult,Work-Life Balance,Male,25,Germany,Masters,White or Caucasian
+212,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,1.0,4.0,9.0,7.0,8.0,10.0,Easy,Compensation and Benefits,Male,33,Colombia,Bachelors,Hispanic or Latino
+213,Data Analyst,75500.0,Yes,Finance and Banking,Python,4.0,4.0,6.0,3.0,4.0,0.0,Neither easy nor difficult,Work Environment Preferences,Male,30,Ireland,Masters,White or Caucasian
+214,Data Analyst,20000.0,Yes,Finance and Banking,Python,1.0,1.0,1.0,1.0,1.0,1.0,Very Difficult,Compensation and Benefits,Male,35,India,Bachelors,Asian
+215,Data Analyst,20000.0,No,Manufacturing and Industrial,None,5.0,2.0,5.0,5.0,3.0,4.0,Difficult,Compensation and Benefits,Male,25,Romania,Bachelors,White or Caucasian
+216,Data Analyst,20000.0,No,Construction and Real Estate,Python,4.0,7.0,9.0,5.0,2.0,8.0,Easy,Compensation and Benefits,Male,23,Spain,Bachelors,White or Caucasian
+217,Data Engineer,20000.0,No,Healthcare and Biotechnology,Python,6.0,6.0,6.0,5.0,4.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,24,Mexico,Bachelors,Hispanic or Latino
+218,Data Analyst,187500.0,Yes,Education,SQL,8.0,9.0,9.0,7.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,27,United States,Masters,Black or African American
+219,Data Analyst,75500.0,Yes,Manufacturing and Industrial,Python,4.0,10.0,10.0,8.0,5.0,6.0,Neither easy nor difficult,Work Environment Preferences,Male,32,United States,Bachelors,Asian
+220,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,5.0,4.0,4.0,4.0,4.0,Neither easy nor difficult,Work-Life Balance,Male,50,Canada,Bachelors,White or Caucasian
+221,Data Architect,75500.0,Yes,Agriculture and Poultry,Python,7.0,7.0,8.0,9.0,10.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,29,United States,High School,White or Caucasian
+222,Data Analyst,20000.0,Yes,Telecommunications,R,2.0,8.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Work-Life Balance,Male,41,Peru,Bachelors,Hispanic or Latino
+223,Database Integrity,20000.0,No,Natural Resources and Mining,R,1.0,7.0,7.0,1.0,4.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,23,United States,Associates,White or Caucasian
+224,Data Analyst,20000.0,Yes,Finance and Banking,Python,4.0,7.0,8.0,7.0,8.0,8.0,Difficult,Compensation and Benefits,Male,31,Nigeria,Bachelors,Black or African American
+225,Data Analyst,20000.0,No,Healthcare and Biotechnology,Python,0.0,10.0,10.0,10.0,10.0,10.0,Difficult,Compensation and Benefits,Male,22,Philippines,Bachelors,Native Hawaiian or Other Pacific Islander
+226,Data Analyst,75500.0,No,Finance and Banking,Python,3.0,5.0,5.0,5.0,3.0,3.0,Very Difficult,Compensation and Benefits,Male,29,United States,Masters,Hispanic or Latino
+227,Data Scientist,20000.0,Yes,Technology and Information Technology,Python,4.0,4.0,4.0,0.0,0.0,6.0,Difficult,Work Environment,Male,23,Malaysia,Bachelors,Asian
+228,None,20000.0,No,Service Industry,None,0.0,0.0,1.0,1.0,0.0,1.0,Neither easy nor difficult,Work Environment Preferences,Female,24,United States,High School,Hispanic or Latino
+229,Data Analyst,75500.0,Yes,Manufacturing and Industrial,Python,5.0,9.0,10.0,10.0,5.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,26,United States,Bachelors,Black or African American
+230,None,20000.0,Yes,Finance and Banking,Python,4.0,3.0,5.0,2.0,2.0,3.0,Difficult,Work Environment,Male,31,India,Bachelors,Asian
+231,Data Analyst,20000.0,Yes,Sports and Recreation,Python,1.0,1.0,1.0,1.0,7.0,9.0,Neither easy nor difficult,Work Environment Preferences,Male,22,Nigeria,Bachelors,Black or African American
+232,Data Analyst,75500.0,Yes,Fashion and Apparel,Python,7.0,8.0,10.0,8.0,7.0,5.0,Neither easy nor difficult,Work Environment Preferences,Male,31,Germany,Bachelors,White or Caucasian
+233,None,20000.0,Yes,Technology and Information Technology,Python,0.0,4.0,0.0,0.0,4.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,27,United States,Masters,Asian
+234,None,20000.0,No,Other,Python,1.0,1.0,2.0,1.0,1.0,1.0,Difficult,Compensation and Benefits,Female,25,United States,Bachelors,Asian
+235,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,4.0,10.0,10.0,8.0,8.0,10.0,Easy,Work-Life Balance,Male,30,Colombia,Masters,Hispanic or Latino
+236,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,R,0.0,6.0,5.0,6.0,0.0,2.0,Easy,Career Progression,Male,28,United States,Masters,Hispanic or Latino
+237,Data Analyst,137500.0,No,Finance and Banking,Python,6.0,6.0,5.0,4.0,2.0,4.0,Easy,Work Environment Preferences,Male,26,United States,Bachelors,White or Caucasian
+238,Data Scientist,137500.0,Yes,Retail and E-commerce,Python,6.0,7.0,7.0,10.0,6.0,7.0,Neither easy nor difficult,Work Environment Preferences,Female,32,United States,Masters,White or Caucasian
+239,Data Analyst,20000.0,Yes,Marketing and Advertising,SQL,3.0,5.0,6.0,4.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,40,Poland,PhD,White or Caucasian
+240,Data Engineer,20000.0,Yes,Manufacturing and Industrial,Python,4.0,7.0,7.0,6.0,8.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,36,Singapore,Associates,Asian
+241,Data Analyst,75500.0,Yes,Finance and Banking,Python,6.0,10.0,9.0,9.0,9.0,10.0,Difficult,Compensation and Benefits,Male,35,United States,Bachelors,Hispanic or Latino
+242,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,3.0,4.0,4.0,4.0,5.0,5.0,Very Difficult,Work-Life Balance,Male,29,United States,Masters,Asian
+243,Data Analyst,53000.0,No,Finance and Banking,Python,6.0,5.0,9.0,9.0,7.0,5.0,Neither easy nor difficult,Job Satisfaction,Female,25,Germany,Masters,Hispanic or Latino
+244,Database Developer,53000.0,Yes,Hospitality and Tourism,Python,6.0,8.0,8.0,9.0,6.0,8.0,Difficult,Work Environment Preferences,Male,29,United States,Bachelors,White or Caucasian
+245,Data Analyst,95500.0,No,Agriculture,Python,7.0,6.0,7.0,4.0,5.0,8.0,Difficult,Work-Life Balance,Male,26,United States,Bachelors,Black or African American
+246,Data Analyst,20000.0,No,Marketing and Advertising,R,1.0,1.0,1.0,1.0,1.0,1.0,Neither easy nor difficult,Work Environment Preferences,Male,34,Ghana,Bachelors,Black or African American
+247,Data Analyst,20000.0,Yes,Finance and Banking,Python,5.0,2.0,5.0,4.0,3.0,5.0,Neither easy nor difficult,Work-Life Balance,Male,26,Egypt,Bachelors,White or Caucasian
+248,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,3.0,5.0,4.0,3.0,2.0,Difficult,Professional Development,Female,22,India,Bachelors,Asian
+249,None,20000.0,Yes,Construction and Real Estate,Python,0.0,2.0,0.0,1.0,1.0,2.0,Very Difficult,Work Environment Preferences,Female,24,Kenya,Bachelors,Black or African American
+250,Data Analyst,20000.0,No,Healthcare and Biotechnology,Python,3.0,6.0,6.0,6.0,4.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,26,Costa Rica,Bachelors,Hispanic or Latino
+251,Data Architect,20000.0,Yes,Finance and Banking,Python,5.0,6.0,2.0,3.0,3.0,5.0,Very Difficult,Work-Life Balance,Female,34,Portugal,Masters,White or Caucasian
+252,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,5.0,4.0,5.0,4.0,2.0,Neither easy nor difficult,Compensation and Benefits,Male,29,India,Bachelors,Asian
+253,Data Scientist,20000.0,No,Technology and Information Technology,R,2.0,7.0,7.0,7.0,7.0,7.0,Easy,Compensation and Benefits,Male,21,Nigeria,Bachelors,Black or African American
+254,Analyst,20000.0,No,Professional Services,Python,2.0,4.0,5.0,3.0,1.0,1.0,Neither easy nor difficult,Work-Life Balance,Female,35,North Macedonia,Masters,White or Caucasian
+255,Data Analyst,53000.0,No,Education,Python,7.0,7.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,26,United States,Bachelors,Black or African American
+256,Data Analyst,53000.0,Yes,Logistics and Distribution,Python,2.0,4.0,7.0,10.0,5.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,28,United States,Bachelors,White or Caucasian
+257,Manager,53000.0,No,Non-Profit and Social Services,Python,1.0,5.0,5.0,1.0,0.0,3.0,Easy,Compensation and Benefits,Female,33,United States,Bachelors,White or Caucasian
+258,Data Analyst,75500.0,Yes,Professional Services,SQL,7.0,6.0,5.0,7.0,4.0,4.0,Easy,Compensation and Benefits,Female,56,United States,Bachelors,White or Caucasian
+259,Developer,20000.0,No,Finance and Insurance,Python,3.0,3.0,6.0,5.0,Unknown,4.0,Difficult,Work-Life Balance,Male,23,India,Bachelors,Asian
+260,Data Scientist,137500.0,Yes,Healthcare and Biotechnology,Python,4.0,5.0,5.0,5.0,4.0,5.0,Difficult,Compensation and Benefits,Male,28,United States,Masters,White or Caucasian
+261,None,20000.0,No,Other,JavaScript,0.0,0.0,0.0,0.0,0.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,21,Egypt,High School,White or Caucasian
+262,None,75500.0,No,Non-Profit and Social Services,Python,2.0,2.0,4.0,1.0,2.0,1.0,Neither easy nor difficult,Work-Life Balance,Male,35,United States,Masters,Black or African American
+263,Data Analyst,53000.0,No,Healthcare and Biotechnology,Python,7.0,5.0,9.0,9.0,9.0,8.0,Neither easy nor difficult,Work Environment Preferences,Male,29,Ireland,Masters,Asian
+264,Data Analyst,95500.0,No,Technology and Information Technology,Python,9.0,10.0,8.0,8.0,7.0,7.0,Neither easy nor difficult,Various,Female,23,United States,Bachelors,Asian
+265,Tableau Administrator,53000.0,No,Finance and Banking,Python,3.0,3.0,3.0,0.0,0.0,1.0,Difficult,Work-Life Balance,Male,25,India,Bachelors,Asian
+266,Data Engineer,95500.0,Yes,Retail and E-commerce,Python,8.0,7.0,10.0,9.0,10.0,10.0,Easy,Compensation and Benefits,Male,27,United States,Masters,White or Caucasian
+267,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,8.0,7.0,5.0,8.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,22,India,Bachelors,Asian
+268,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,6.0,3.0,5.0,7.0,5.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,22,India,Bachelors,Asian
+269,None,115500.0,No,Other,Java,7.0,7.0,4.0,5.0,5.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,43,United States,Masters,Asian
+270,Reporting Admistrator,20000.0,Yes,Technology and Information Technology,Python,3.0,5.0,8.0,4.0,5.0,5.0,Difficult,Compensation and Benefits,Female,32,United States,Bachelors,Asian
+271,None,75500.0,Yes,Healthcare and Biotechnology,None,Unknown,Unknown,Unknown,Unknown,Unknown,0.0,Difficult,Work-Life Balance,Female,42,United States,Masters,Asian
+272,Analyst,75500.0,No,Legal Services,Python,4.0,6.0,2.0,3.0,3.0,2.0,Very Difficult,Work Environment Preferences,Male,31,United States,Bachelors,Hispanic or Latino
+273,Data Engineer,20000.0,No,Marketing and Advertising,Python,0.0,10.0,10.0,5.0,0.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United Kingdom,Bachelors,White or Caucasian
+274,Data Analyst,53000.0,No,Agriculture,SQL,3.0,5.0,5.0,5.0,3.0,2.0,Neither easy nor difficult,Compensation and Benefits,Female,25,United States,Masters,Asian
+275,Data Analyst,115500.0,Yes,Aerospace and Defense,SQL,9.0,9.0,9.0,6.0,9.0,8.0,Difficult,Work-Life Balance,Male,31,United States,Masters,Asian
+276,Data Scientist,20000.0,Yes,Education,Python,3.0,3.0,1.0,1.0,1.0,6.0,Difficult,Compensation and Benefits,Male,36,Morocco,Masters,White or Caucasian
+277,Data Scientist,53000.0,No,Healthcare and Biotechnology,Python,6.0,8.0,8.0,8.0,8.0,10.0,Neither easy nor difficult,Work-Life Balance,Female,35,Bulgaria,Masters,White or Caucasian
+278,Data Analyst,75500.0,Yes,Energy and Utilities,R,6.0,10.0,10.0,10.0,9.0,8.0,Easy,Work Environment Preferences,Male,28,United States,Bachelors,White or Caucasian
+279,Data Analyst,20000.0,No,Finance and Banking,Python,8.0,8.0,9.0,9.0,8.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,27,Peru,Bachelors,Hispanic or Latino
+280,Data Analyst,20000.0,Yes,Sports and Recreation,Python,7.0,4.0,7.0,4.0,8.0,10.0,Easy,Work-Life Balance,Male,25,Costa Rica,Bachelors,Hispanic or Latino
+281,Data Analyst,20000.0,No,Retail and E-commerce,Python,6.0,6.0,10.0,8.0,6.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Poland,Bachelors,White or Caucasian
+282,Manager,53000.0,No,Sports and Recreation,R,5.0,5.0,5.0,5.0,5.0,5.0,Difficult,Work-Life Balance,Male,22,United States,Masters,White or Caucasian
+283,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,None,7.0,8.0,8.0,4.0,6.0,8.0,Neither easy nor difficult,Work Environment,Male,38,Germany,High School,White or Caucasian
+284,Data Analyst,20000.0,Yes,Education,Python,0.0,0.0,5.0,0.0,0.0,0.0,Difficult,Work Environment,Male,27,Kenya,Bachelors,Black or African American
+285,Data Analyst,95500.0,Yes,Professional Services,None,4.0,4.0,2.0,2.0,2.0,2.0,Easy,Work Environment Preferences,Female,34,Canada,Bachelors,Black or African American
+286,Data Analyst,75500.0,Yes,Non-Profit and Social Services,Python,9.0,10.0,10.0,9.0,8.0,10.0,Difficult,Compensation and Benefits,Female,31,United States,Bachelors,White or Caucasian
+287,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,4.0,9.0,8.0,8.0,6.0,10.0,Neither easy nor difficult,Compensation and Benefits,Female,33,Canada,Masters,Black or African American
+288,None,20000.0,Yes,Technology and Information Technology,Python,2.0,5.0,5.0,5.0,5.0,5.0,Very Difficult,Work Environment Preferences,Male,23,United States,Bachelors,Asian
+289,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,None,3.0,10.0,9.0,10.0,5.0,0.0,Neither easy nor difficult,Compensation and Benefits,Female,25,United States,Bachelors,Asian
+290,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,4.0,4.0,4.0,5.0,2.0,1.0,Difficult,Compensation and Benefits,Male,29,Iran,Masters,White or Caucasian
+291,Engineer,53000.0,Yes,Healthcare and Biotechnology,R,5.0,7.0,9.0,8.0,8.0,8.0,Neither easy nor difficult,Compensation and Benefits,Female,29,United States,Masters,Black or African American
+292,Data Analyst,20000.0,Yes,Technology and Information Technology,R,3.0,4.0,4.0,4.0,4.0,2.0,Easy,Compensation and Benefits,Male,31,India,Masters,Asian
+293,None,20000.0,No,Construction and Real Estate,R,0.0,5.0,0.0,0.0,0.0,0.0,Very Difficult,Work Environment Preferences,Male,34,South Africa,High School,Black or African American
+294,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,3.0,2.0,4.0,3.0,7.0,8.0,Easy,Work-Life Balance,Male,26,Bangladesh,Bachelors,Asian
+295,Data Scientist,95500.0,No,Healthcare and Biotechnology,Python,4.0,6.0,5.0,6.0,6.0,4.0,Neither easy nor difficult,Work Environment Preferences,Female,26,United States,Bachelors,White or Caucasian
+296,Specialist,53000.0,Yes,Public Safety and Law Enforcement,DAX,3.0,6.0,9.0,6.0,5.0,10.0,Difficult,Professional Development,Male,27,United States,Masters,Black or African American
+297,Data Analyst,75500.0,Yes,Logistics and Distribution,Python,8.0,5.0,9.0,6.0,6.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,26,United States,Bachelors,White or Caucasian
+298,None,20000.0,Yes,Technology and Information Technology,Python,4.0,5.0,4.0,4.0,3.0,4.0,Very Difficult,Compensation and Benefits,Female,26,United States,Masters,Asian
+299,Data Analyst,53000.0,Yes,Finance and Banking,R,2.0,5.0,5.0,5.0,4.0,5.0,Easy,Compensation and Benefits,Male,24,United States,Bachelors,White or Caucasian
+300,Data Analyst,95500.0,Yes,Retail and E-commerce,Python,4.0,6.0,3.0,4.0,4.0,2.0,Easy,Compensation and Benefits,Female,28,Ireland,Masters,Asian
+301,Data Analyst,115500.0,Yes,Manufacturing and Industrial,R,8.0,8.0,10.0,9.0,7.0,5.0,Easy,Compensation and Benefits,Male,29,United States,Bachelors,White or Caucasian
+302,Data Analyst,75500.0,Yes,Finance and Banking,Python,3.0,2.0,1.0,1.0,0.0,2.0,Very Difficult,Compensation and Benefits,Female,26,United States,Masters,Asian
+303,Data Analyst,53000.0,Yes,Aerospace and Defense,Python,3.0,5.0,3.0,3.0,1.0,1.0,Neither easy nor difficult,Compensation and Benefits,Male,28,United Kingdom,Bachelors,White or Caucasian
+304,Data Analyst,20000.0,No,Finance and Banking,Python,6.0,8.0,7.0,6.0,2.0,4.0,Easy,Job Satisfaction,Male,25,France,Masters,White or Caucasian
+305,Data Analyst,75500.0,Yes,Finance and Banking,R,5.0,7.0,7.0,3.0,7.0,9.0,Difficult,Compensation and Benefits,Female,26,United States,Bachelors,Asian
+306,Data Engineer,137500.0,Yes,Healthcare and Biotechnology,Python,6.0,3.0,9.0,5.0,8.0,8.0,Neither easy nor difficult,Work Environment Preferences,Female,38,United States,Masters,White or Caucasian
+307,None,20000.0,Yes,Education and Social Sciences,SQL,0.0,3.0,3.0,3.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Female,20,Nigeria,High School,Black or African American
+308,Data Analyst,75500.0,No,Education,SQL,4.0,6.0,7.0,7.0,2.0,2.0,Neither easy nor difficult,Work Environment Preferences,Female,45,United States,Masters,Black or African American
+309,Data Analyst,95500.0,No,Marketing and Advertising,Python,5.0,3.0,5.0,6.0,6.0,4.0,Difficult,Work-Life Balance,Male,27,Canada,Masters,Asian
+310,Data Analyst,53000.0,Yes,Professional Services,Python,3.0,7.0,7.0,7.0,7.0,6.0,Difficult,Work Environment,Male,28,Canada,Masters,Asian
+311,None,20000.0,Yes,Other,R,2.0,10.0,10.0,10.0,10.0,3.0,Neither easy nor difficult,Work Environment Preferences,Female,29,Germany,Bachelors,European
+312,PMO,53000.0,No,Technology and Information Technology,C/C++,7.0,7.0,7.0,7.0,7.0,7.0,Neither easy nor difficult,Compensation and Benefits,Female,43,Singapore,High School,Asian
+313,Data Analyst,20000.0,Yes,Finance and Banking,Python,0.0,5.0,9.0,9.0,0.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,26,Antigua and Barbuda,Bachelors,Black or African American
+314,None,53000.0,No,Technology and Information Technology,SQL,7.0,8.0,7.0,7.0,8.0,7.0,Neither easy nor difficult,Various,Female,47,United States,Bachelors,Black or African American
+315,None,20000.0,Yes,Finance and Banking,Python,Unknown,Unknown,Unknown,8.0,10.0,10.0,Easy,Work Environment Preferences,Male,23,Nigeria,Bachelors,Black or African American
+316,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,0.0,1.0,1.0,1.0,1.0,2.0,Very Difficult,Compensation and Benefits,Male,25,Egypt,Bachelors,African
+317,System Administrator,20000.0,No,Finance and Banking,Python,6.0,6.0,3.0,7.0,2.0,4.0,Very Difficult,Professional Development,Male,32,Poland,Masters,White or Caucasian
+318,Data Analyst,20000.0,Yes,Finance and Banking,Python,1.0,10.0,10.0,5.0,3.0,1.0,Neither easy nor difficult,Compensation and Benefits,Female,25,United States,Bachelors,White or Caucasian
+319,Data Analyst,20000.0,No,Finance and Banking,Python,1.0,2.0,10.0,1.0,2.0,8.0,Difficult,Work Environment Preferences,Female,29,Venezuela,Bachelors,Hispanic or Latino
+320,Data Analyst,53000.0,No,Healthcare and Biotechnology,SQL,3.0,7.0,5.0,5.0,3.0,3.0,Neither easy nor difficult,Compensation and Benefits,Female,33,United States,Bachelors,Asian
+321,Data Analyst,115500.0,No,Education,Python,6.0,10.0,10.0,10.0,7.0,6.0,Easy,Professional Development,Male,36,United States,Masters,Asian
+322,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,Python,4.0,10.0,9.0,3.0,0.0,10.0,Difficult,Work-Life Balance,Male,25,United States,Bachelors,White or Caucasian
+323,Data Scientist,187500.0,No,Other,Python,8.0,7.0,8.0,7.0,7.0,8.0,Neither easy nor difficult,Work-Life Balance,Male,38,United States,Masters,White or Caucasian
+324,Data Analyst,75500.0,Yes,Energy and Utilities,R,3.0,2.0,6.0,6.0,5.0,4.0,Difficult,Work-Life Balance,Male,30,United States,Masters,Bi-racial/Multi-racial
+325,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,5.0,6.0,6.0,6.0,7.0,Difficult,Work Environment,Male,35,United States,Masters,Black or African American
+326,Teacher,53000.0,No,Education,SQL,0.0,1.0,10.0,5.0,0.0,0.0,Difficult,Compensation and Benefits,Female,42,United States,Bachelors,White or Caucasian
+327,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,Python,3.0,5.0,4.0,6.0,4.0,6.0,Easy,Work Environment Preferences,Male,30,United States,Masters,White or Caucasian
+328,None,20000.0,Yes,Other,Python,0.0,0.0,0.0,0.0,0.0,4.0,Very Difficult,Compensation and Benefits,Female,25,Nigeria,Bachelors,Black or African American
+329,Data Analyst,95500.0,No,Healthcare and Biotechnology,Python,5.0,9.0,5.0,2.0,5.0,1.0,Difficult,Work Environment,Female,28,United States,Bachelors,Asian
+330,Data Analyst,20000.0,Yes,Manufacturing and Industrial,Python,5.0,10.0,8.0,5.0,7.0,10.0,Very Difficult,Various,Male,28,Canada,Bachelors,Asian
+331,None,20000.0,No,Other,SQL,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Compensation and Benefits,Male,20,Malaysia,High School,Asian
+332,Data Analyst,115500.0,Yes,Construction and Real Estate,VBA,7.0,8.0,7.0,7.0,10.0,10.0,Easy,Work Environment,Male,33,United States,Masters,Hispanic or Latino
+333,Data Analyst,75500.0,No,Technology and Information Technology,Python,8.0,6.0,7.0,7.0,8.0,8.0,Easy,Compensation and Benefits,Male,23,United States,Associates,White or Caucasian
+334,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,R,4.0,5.0,7.0,7.0,5.0,7.0,Neither easy nor difficult,Compensation and Benefits,Female,35,Brazil,Bachelors,Hispanic or Latino
+335,None,20000.0,Yes,Manufacturing and Industrial,Python,2.0,2.0,3.0,3.0,2.0,3.0,Difficult,Work-Life Balance,Male,22,India,Bachelors,Asian
+336,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,5.0,10.0,5.0,6.0,6.0,8.0,Very Difficult,Compensation and Benefits,Male,33,India,Bachelors,Asian
+337,Data Engineer,20000.0,No,Construction and Real Estate,Python,1.0,7.0,7.0,7.0,1.0,2.0,Very Easy,Compensation and Benefits,Male,22,United States,Bachelors,White or Caucasian
+338,Data Analyst,95500.0,Yes,Logistics and Distribution,R,7.0,8.0,8.0,7.0,5.0,9.0,Neither easy nor difficult,Work Environment Preferences,Male,35,United States,Bachelors,White or Caucasian
+339,Data Analyst,75500.0,Yes,Agriculture,SQL,8.0,5.0,6.0,4.0,4.0,8.0,Easy,Work-Life Balance,Female,37,United States,Masters,White or Caucasian
+340,None,20000.0,Yes,Finance and Banking,Python,4.0,Unknown,Unknown,Unknown,Unknown,Unknown,Very Easy,Compensation and Benefits,Male,22,United States,Associates,Prefer not to say
+341,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,Python,10.0,10.0,10.0,7.0,10.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,36,United States,Masters,White or Caucasian
+342,Data Scientist,95500.0,Yes,Consumer Goods,Python,6.0,5.0,8.0,8.0,7.0,9.0,Easy,Work-Life Balance,Male,26,India,Bachelors,Hispanic or Latino
+343,Data Analyst,20000.0,Yes,Marketing and Advertising,R,3.0,2.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Work Environment,Female,25,South Korea,Bachelors,Asian
+344,Data Analyst,53000.0,Yes,Non-Profit and Social Services,R,4.0,6.0,6.0,5.0,5.0,6.0,Neither easy nor difficult,Work Environment Preferences,Female,34,United States,High School,White or Caucasian
+345,Data Analyst,20000.0,Yes,Food and Beverage,Python,4.0,8.0,8.0,8.0,7.0,8.0,Difficult,Work Environment Preferences,Male,33,Chile,Bachelors,Hispanic or Latino
+346,None,53000.0,No,Retail and E-commerce,Python,0.0,4.0,0.0,1.0,4.0,2.0,Very Difficult,Work-Life Balance,Male,37,United States,Bachelors,White or Caucasian
+347,Data Analyst,75500.0,No,Marketing and Advertising,Python,5.0,5.0,7.0,6.0,4.0,6.0,Very Easy,Compensation and Benefits,Female,54,United States,High School,White or Caucasian
+348,Data Analyst,20000.0,Yes,Finance and Banking,Python,2.0,Unknown,Unknown,Unknown,Unknown,Unknown,Very Easy,Compensation and Benefits,Male,26,India,Bachelors,Asian
+349,Data Analyst,53000.0,No,Education,R,4.0,7.0,7.0,7.0,2.0,7.0,Neither easy nor difficult,Compensation and Benefits,Female,27,United States,Masters,Hispanic or Latino
+350,Database Developer,20000.0,Yes,Telecommunications,SQL,2.0,3.0,6.0,6.0,3.0,5.0,Difficult,Compensation and Benefits,Male,24,United Kingdom,Bachelors,White or Caucasian
+351,Data Analyst,20000.0,Yes,Finance and Banking,Python,5.0,5.0,5.0,5.0,5.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,24,Egypt,Bachelors,White or Caucasian
+352,Consultant,20000.0,Yes,Professional Services,Python,3.0,4.0,5.0,3.0,2.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,27,Panama,Bachelors,White or Caucasian
+353,None,20000.0,No,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Work Environment Preferences,Male,25,Indonesia,Bachelors,Asian
+354,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,1.0,7.0,7.0,7.0,7.0,1.0,Difficult,Compensation and Benefits,Female,28,United Kingdom,Masters,Black or African American
+355,Developer,53000.0,No,Education,Python,3.0,6.0,5.0,5.0,3.0,4.0,Easy,Work Environment Preferences,Male,21,United States,Bachelors,Asian
+356,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,None,4.0,4.0,5.0,5.0,4.0,6.0,Difficult,Work-Life Balance,Female,28,United States,Bachelors,White or Caucasian
+357,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,3.0,5.0,5.0,5.0,5.0,2.0,Neither easy nor difficult,Work Environment Preferences,Male,30,Ghana,Masters,Black or African American
+358,Data Analyst,20000.0,No,Education,Python,0.0,10.0,0.0,9.0,5.0,10.0,Easy,Work Environment Preferences,Male,24,Angola,Associates,Black or African American
+359,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,7.0,4.0,6.0,5.0,6.0,6.0,Difficult,Work Environment Preferences,Male,26,India,Bachelors,Asian
+360,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,Unknown,Unknown,Unknown,Unknown,Unknown,5.0,Neither easy nor difficult,Work-Life Balance,Female,19,Bangladesh,High School,Asian
+361,None,20000.0,No,Service Industry,Python,5.0,6.0,6.0,5.0,1.0,3.0,Neither easy nor difficult,Work-Life Balance,Female,92,India,Masters,Asian
+362,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,1.0,8.0,5.0,1.0,7.0,8.0,Neither easy nor difficult,Work Environment Preferences,Male,28,Nigeria,Bachelors,Black or African American
+363,None,20000.0,Yes,Education,Python,0.0,1.0,2.0,2.0,1.0,1.0,Neither easy nor difficult,Compensation and Benefits,Female,24,India,Masters,Asian
+364,Specialist,53000.0,No,Healthcare and Biotechnology,Python,7.0,10.0,10.0,10.0,5.0,10.0,Easy,Compensation and Benefits,Male,25,United States,Masters,Asian
+365,Data Analyst,53000.0,Yes,Finance and Banking,Python,4.0,5.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Work-Life Balance,Male,42,United Kingdom,Masters,Black or African American
+366,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,2.0,3.0,3.0,3.0,3.0,3.0,Difficult,Compensation and Benefits,Male,21,India,Bachelors,Asian
+367,Data Analyst,75500.0,No,Healthcare and Biotechnology,Python,7.0,8.0,9.0,7.0,7.0,6.0,Easy,Compensation and Benefits,Male,24,United States,Bachelors,White or Caucasian
+368,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,Python,4.0,7.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Compensation and Benefits,Female,26,United States,Bachelors,White or Caucasian
+369,Data Analyst,20000.0,Yes,Health and Beauty,Python,2.0,8.0,8.0,9.0,8.0,10.0,Difficult,Compensation and Benefits,Male,30,United Kingdom,Bachelors,White or Caucasian
+370,Data Engineer,95500.0,Yes,Advertising and Marketing,SQL,6.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Work Environment,Male,27,United States,Bachelors,Black or African American
+371,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,0.0,4.0,1.0,0.0,1.0,3.0,Easy,Compensation and Benefits,Male,28,India,Bachelors,Asian
+372,Data Analyst,75500.0,No,Construction and Real Estate,SQL,6.0,8.0,7.0,7.0,5.0,6.0,Easy,Compensation and Benefits,Female,29,United Kingdom,Bachelors,White or Caucasian
+373,Data Analyst,20000.0,No,Consumer Goods and Home Living,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Work-Life Balance,Female,26,India,Bachelors,Asian
+374,Data Engineer,20000.0,Yes,Finance and Banking,Python,3.0,3.0,3.0,3.0,3.0,4.0,Neither easy nor difficult,Work Environment Preferences,Male,29,Nigeria,Bachelors,Black or African American
+375,Analyst,75500.0,No,Finance and Banking,None,3.0,5.0,7.0,2.0,5.0,7.0,Easy,Work Environment Preferences,Male,60,United Kingdom,Masters,White or Caucasian
+376,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,5.0,8.0,8.0,5.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Nigeria,Bachelors,Black or African American
+377,Analyst,20000.0,No,Construction and Real Estate,R,0.0,0.0,1.0,3.0,2.0,1.0,Neither easy nor difficult,Work-Life Balance,Female,37,Nigeria,Masters,African
+378,Data Analyst,75500.0,Yes,Finance and Banking,Python,6.0,8.0,3.0,4.0,5.0,1.0,Neither easy nor difficult,Compensation and Benefits,Female,30,Canada,Bachelors,Asian
+379,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,0.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Compensation and Benefits,Female,27,Nigeria,Masters,Black or African American
+380,Data Scientist,225000.0,Yes,Technology and Information Technology,R,5.0,6.0,5.0,5.0,6.0,6.0,Difficult,Work Environment Preferences,Male,31,United States,PhD,White or Caucasian
+381,None,20000.0,No,Other,R,10.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Work-Life Balance,Male,24,United Kingdom,Masters,Asian
+382,Data Analyst,20000.0,No,Finance and Banking,MATLAB,0.0,6.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,20,United States,Bachelors,Black or African American
+383,Developer,20000.0,No,Technology and Information Technology,R,2.0,1.0,4.0,1.0,1.0,1.0,Easy,Work-Life Balance,Male,24,India,Bachelors,Asian
+384,None,20000.0,Yes,Manufacturing and Industrial,R,3.0,6.0,7.0,6.0,4.0,4.0,Neither easy nor difficult,Work-Life Balance,Male,24,Romania,Bachelors,White or Caucasian
+385,None,20000.0,No,Other,R,0.0,1.0,3.0,0.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,41,Spain,Bachelors,Hispanic or Latino
+386,Data Analyst,95500.0,Yes,Technology and Information Technology,R,8.0,8.0,8.0,8.0,8.0,8.0,Difficult,Compensation and Benefits,Male,41,United States,Bachelors,White or Caucasian
+387,Manager,187500.0,No,Retail and E-commerce,Python,9.0,8.0,9.0,10.0,8.0,10.0,Neither easy nor difficult,Work Environment,Male,43,United States,Bachelors,White or Caucasian
+388,Data Analyst,75500.0,No,Healthcare and Biotechnology,Python,7.0,7.0,8.0,4.0,6.0,9.0,Easy,Work Environment Preferences,Female,38,United States,Bachelors,White or Caucasian
+389,Data Analyst,20000.0,Yes,Retail and E-commerce,Python,5.0,5.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,28,Philippines,Bachelors,Asian
+390,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,Python,10.0,8.0,6.0,10.0,7.0,5.0,Neither easy nor difficult,Work Environment,Female,31,Germany,Bachelors,Hispanic or Latino
+391,Data Analyst,95500.0,Yes,Government and Public Sector,SQL,8.0,7.0,8.0,6.0,7.0,8.0,Difficult,Work-Life Balance,Female,28,United States,Masters,White or Caucasian
+392,Data Analyst,53000.0,No,Healthcare and Biotechnology,C/C++,7.0,8.0,9.0,9.0,4.0,9.0,Easy,Work Environment Preferences,Male,23,United States,Masters,Asian
+393,Data Analyst,53000.0,No,Energy and Utilities,Python,5.0,5.0,4.0,5.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United Kingdom,Bachelors,Black or African American
+394,Engineer,20000.0,No,Technology and Information Technology,R,2.0,5.0,2.0,8.0,9.0,10.0,Difficult,Work Environment Preferences,Male,26,Poland,Masters,White or Caucasian
+395,Data Scientist,137500.0,Yes,Finance and Banking,Python,9.0,4.0,8.0,7.0,5.0,6.0,Difficult,Work-Life Balance,Male,35,United States,Bachelors,White or Caucasian
+396,Data Analyst,115500.0,Yes,Retail and E-commerce,R,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Work Environment Preferences,Male,30,Denmark,Masters,White or Caucasian
+397,Data Analyst,95500.0,Yes,Technology and Information Technology,R,3.0,Unknown,Unknown,Unknown,Unknown,Unknown,Neither easy nor difficult,Compensation and Benefits,Male,35,United Kingdom,Bachelors,White or Caucasian
+398,Data Analyst,20000.0,Yes,Telecommunications,Python,0.0,8.0,5.0,5.0,2.0,2.0,Easy,Compensation and Benefits,Male,28,Panama,Bachelors,Hispanic or Latino
+399,None,20000.0,No,Technology and Information Technology,Python,0.0,2.0,3.0,3.0,2.0,3.0,Easy,Work-Life Balance,Female,24,Nigeria,Bachelors,Black or African American
+400,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,8.0,10.0,7.0,5.0,6.0,5.0,Neither easy nor difficult,Work Environment,Female,34,United States,Bachelors,White or Caucasian
+401,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,5.0,4.0,5.0,3.0,6.0,Neither easy nor difficult,Work-Life Balance,Female,31,Germany,Masters,White or Caucasian
+402,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,0.0,0.0,0.0,0.0,0.0,0.0,Difficult,Work-Life Balance,Male,30,United Kingdom,Masters,Asian
+403,Data Engineer,95500.0,Yes,Logistics and Distribution,JavaScript,4.0,4.0,1.0,6.0,1.0,5.0,Difficult,Compensation and Benefits,Male,40,United Kingdom,Bachelors,White or Caucasian
+404,Data Analyst,53000.0,No,Professional Services,R,4.0,10.0,10.0,10.0,8.0,6.0,Very Difficult,Compensation and Benefits,Male,26,United States,Bachelors,Hispanic or Latino
+405,Data Analyst,137500.0,No,Healthcare and Biotechnology,R,9.0,9.0,6.0,6.0,6.0,7.0,Neither easy nor difficult,Work Environment,Male,25,United States,Bachelors,White or Caucasian
+406,Data Analyst,20000.0,Yes,Maritime and Shipping,SQL,Unknown,5.0,8.0,4.0,8.0,4.0,Easy,Work Environment,Male,45,Greece,Associates,White or Caucasian
+407,Data Analyst,53000.0,No,Finance and Banking,R,7.0,9.0,8.0,6.0,6.0,9.0,Neither easy nor difficult,Work Environment,Male,26,United States,Masters,Black or African American
+408,Data Scientist,20000.0,No,Finance and Banking,Python,7.0,7.0,8.0,6.0,6.0,4.0,Neither easy nor difficult,Work-Life Balance,Male,26,India,Masters,Asian
+409,Researcher,20000.0,Yes,Finance and Banking,Python,3.0,2.0,4.0,2.0,2.0,3.0,Difficult,Compensation and Benefits,Male,23,India,Masters,Asian
+410,Data Engineer,115500.0,Yes,Technology and Information Technology,Python,4.0,4.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Work-Life Balance,Male,25,India,Masters,Asian
+411,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,R,4.0,5.0,6.0,6.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,33,United States,High School,White or Caucasian
+412,Analyst,20000.0,No,Retail and E-commerce,SQL,6.0,3.0,3.0,6.0,6.0,4.0,Very Easy,Professional Development,Male,33,India,Bachelors,Asian
+413,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,R,7.0,8.0,7.0,8.0,3.0,4.0,Easy,Work Environment,Male,27,United States,Bachelors,White or Caucasian
+414,Data Analyst,115500.0,Yes,Technology and Information Technology,Python,9.0,9.0,9.0,8.0,8.0,9.0,Difficult,Work Environment Preferences,Female,28,United States,Masters,Hispanic or Latino
+415,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,5.0,6.0,7.0,6.0,6.0,7.0,Very Easy,Compensation and Benefits,Male,32,United States,Bachelors,Hispanic or Latino
+416,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,2.0,6.0,3.0,6.0,6.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,35,India,Masters,Asian
+417,Data Analyst,95500.0,Yes,Construction and Real Estate,Python,8.0,9.0,10.0,10.0,9.0,10.0,Neither easy nor difficult,Work Environment,Male,34,United States,Masters,Hispanic or Latino
+418,Data Analyst,53000.0,No,Technology and Electronics,Python,9.0,8.0,3.0,5.0,2.0,4.0,Easy,Compensation and Benefits,Male,27,Germany,Masters,White or Caucasian
+419,Database Coordinator,75500.0,Yes,Education,R,4.0,5.0,5.0,3.0,3.0,4.0,Easy,Work Environment,Female,30,United States,Masters,White or Caucasian
+420,Data Analyst,75500.0,No,Logistics and Distribution,Python,8.0,9.0,9.0,9.0,9.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,34,United States,Masters,White or Caucasian
+421,Data Analyst,53000.0,No,Energy and Utilities,Python,3.0,10.0,6.0,5.0,7.0,8.0,Neither easy nor difficult,Work Environment Preferences,Female,22,United States,Bachelors,White or Caucasian
+422,Data Analyst,20000.0,Yes,Finance and Banking,Python,2.0,2.0,5.0,5.0,2.0,3.0,Very Difficult,Work-Life Balance,Female,33,India,Masters,Asian
+423,Data Analyst,20000.0,No,Finance and Banking,Python,8.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Compensation and Benefits,Female,26,India,Masters,Asian
+424,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,0.0,5.0,8.0,6.0,5.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,28,Argentina,Bachelors,Hispanic or Latino
+425,Driver,20000.0,No,Transportation and Logistics,Python,2.0,2.0,7.0,4.0,8.0,1.0,Difficult,Work Environment Preferences,Male,42,United Kingdom,Bachelors,Black or African American
+426,Data Analyst,20000.0,No,Urban Planning and Development,R,4.0,10.0,2.0,3.0,2.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Morocco,Masters,African
+427,Data Scientist,115500.0,Yes,Technology and Information Technology,SQL,10.0,9.0,8.0,8.0,9.0,10.0,Difficult,Compensation and Benefits,Male,25,United States,Associates,White or Caucasian
+428,Data Analyst,53000.0,Yes,Construction and Real Estate,Python,4.0,6.0,6.0,6.0,5.0,7.0,Easy,Compensation and Benefits,Male,32,United States,Bachelors,Black or African American
+429,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,4.0,5.0,5.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,31,Germany,Masters,Asian
+430,Data Analyst,187500.0,Yes,Education,Python,8.0,7.0,5.0,4.0,7.0,7.0,Easy,Work Environment Preferences,Male,30,United Arab Emirates,High School,White or Caucasian
+431,None,20000.0,Yes,Retail and E-commerce,Python,0.0,6.0,6.0,2.0,0.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,23,Canada,Bachelors,Asian
+432,Manager,75500.0,No,Education,R,7.0,7.0,6.0,7.0,6.0,6.0,Easy,Work Environment Preferences,Female,31,United Kingdom,Bachelors,White or Caucasian
+433,Data Analyst,53000.0,No,Aerospace and Defense,Python,7.0,5.0,9.0,9.0,4.0,9.0,Neither easy nor difficult,Work-Life Balance,Female,29,Finland,Masters,Black or African American
+434,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,5.0,4.0,4.0,5.0,7.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,24,Nigeria,Bachelors,African
+435,Analyst,53000.0,No,Government and Public Sector,Python,2.0,7.0,6.0,5.0,6.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,36,United States,Masters,Asian
+436,Data Analyst,53000.0,Yes,Construction and Real Estate,R,4.0,6.0,6.0,6.0,6.0,6.0,Difficult,Work Environment Preferences,Female,32,United States,Masters,White or Caucasian
+437,Analyst,95500.0,Yes,Healthcare and Biotechnology,Python,8.0,9.0,7.0,7.0,7.0,9.0,Difficult,Work Environment Preferences,Female,36,United States,Bachelors,White or Caucasian
+438,Data Engineer,115500.0,No,Healthcare and Biotechnology,SQL,8.0,6.0,5.0,2.0,3.0,2.0,Easy,Compensation and Benefits,Male,30,United States,Bachelors,White or Caucasian
+439,None,20000.0,Yes,Other,R,0.0,2.0,2.0,3.0,3.0,4.0,Neither easy nor difficult,Work-Life Balance,Male,42,Sudan,Masters,Black or African American
+440,Data Analyst,95500.0,Yes,Healthcare and Biotechnology,DAX,6.0,6.0,6.0,5.0,4.0,4.0,Easy,Work Environment Preferences,Male,53,Australia,PhD,White or Caucasian
+441,Data Analyst,20000.0,No,Finance and Banking,Python,1.0,7.0,4.0,10.0,10.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Kenya,High School,Asian
+442,Data Analyst,20000.0,No,Healthcare and Biotechnology,Python,1.0,5.0,4.0,6.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,23,Lebanon,Bachelors,White or Caucasian
+443,Data Analyst,20000.0,Yes,Agriculture,Python,2.0,1.0,3.0,3.0,3.0,4.0,Difficult,Compensation and Benefits,Male,36,Saudi Arabia,Bachelors,Arab
+444,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,SQL,Unknown,Unknown,Unknown,Unknown,Unknown,6.0,Easy,Work-Life Balance,Male,32,United Arab Emirates,Bachelors,African
+445,Data Analyst,95500.0,No,Finance and Banking,Python,3.0,6.0,4.0,2.0,2.0,3.0,Difficult,Job Satisfaction,Male,25,United States,Masters,Hispanic or Latino
+446,Data Engineer,53000.0,Yes,Technology and Information Technology,Python,4.0,4.0,3.0,4.0,4.0,5.0,Neither easy nor difficult,Work Environment Preferences,Female,35,United Kingdom,Masters,Asian
+447,Data Analyst,75500.0,Yes,Technology and Electronics,R,3.0,4.0,4.0,5.0,4.0,4.0,Very Easy,Compensation and Benefits,Male,26,United States,Bachelors,White or Caucasian
+448,None,20000.0,No,Technology and Information Technology,Python,2.0,7.0,9.0,7.0,3.0,3.0,Difficult,Work Environment Preferences,Male,22,United States,Bachelors,White or Caucasian
+449,Data Scientist,95500.0,Yes,Manufacturing and Industrial,Python,6.0,8.0,10.0,9.0,6.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Canada,Masters,Asian
+450,Data Analyst,75500.0,Yes,Logistics and Distribution,Python,2.0,8.0,6.0,1.0,8.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,36,United States,Masters,White or Caucasian
+451,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,R,4.0,4.0,5.0,5.0,4.0,6.0,Neither easy nor difficult,Various,Female,30,United States,Masters,White or Caucasian
+452,Data Scientist,115500.0,Yes,Finance and Banking,Python,9.0,8.0,10.0,10.0,10.0,10.0,Difficult,Work Environment Preferences,Male,29,United States,Bachelors,Asian
+453,Analyst,75500.0,Yes,Professional Services,R,8.0,10.0,10.0,7.0,8.0,5.0,Difficult,Professional Development,Male,30,United States,Masters,White or Caucasian
+454,Data Engineer,53000.0,No,Finance and Banking,Python,0.0,6.0,6.0,6.0,6.0,6.0,Very Easy,Compensation and Benefits,Male,24,United States,Bachelors,Black or African American
+455,Data Engineer,225000.0,Yes,Technology and Information Technology,SQL,3.0,3.0,4.0,4.0,3.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,33,United States,Bachelors,Asian
+456,Data Analyst,115500.0,No,Food and Beverage,Python,10.0,10.0,10.0,10.0,10.0,6.0,Easy,Compensation and Benefits,Female,42,United States,Bachelors,White or Caucasian
+457,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,Python,1.0,10.0,10.0,8.0,10.0,3.0,Neither easy nor difficult,Compensation and Benefits,Female,36,United States,Bachelors,White or Caucasian
+458,Data Analyst,53000.0,Yes,Science and Research,Python,2.0,3.0,7.0,6.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,27,United States,Bachelors,White or Caucasian
+459,Data Analyst,20000.0,No,Technology and Information Technology,Python,8.0,7.0,8.0,7.0,7.0,9.0,Easy,Professional Development,Female,21,India,Bachelors,Asian
+460,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,Python,8.0,5.0,8.0,8.0,5.0,10.0,Difficult,Work Environment Preferences,Female,34,Israel,Masters,White or Caucasian
+461,None,20000.0,No,Education,Python,2.0,5.0,5.0,5.0,2.0,4.0,Difficult,Compensation and Benefits,Male,27,Netherlands,Bachelors,White or Caucasian
+462,Consultant,20000.0,Yes,Technology and Information Technology,Python,7.0,8.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Work Environment,Male,27,France,Masters,White or Caucasian
+463,None,20000.0,No,Education,R,1.0,1.0,2.0,1.0,0.0,3.0,Neither easy nor difficult,Work-Life Balance,Male,30,Kenya,Associates,African
+464,Data Analyst,75500.0,Yes,Government and Public Sector,SQL,2.0,0.0,0.0,0.0,0.0,2.0,Difficult,Compensation and Benefits,Female,33,United States,Bachelors,White or Caucasian
+465,Data Analyst,95500.0,Yes,Finance and Banking,Python,3.0,3.0,4.0,4.0,4.0,4.0,Difficult,Work Environment,Male,47,India,Masters,American Indian or Alaska Native
+466,Data Analyst,75500.0,Yes,Retail and E-commerce,SQL,4.0,5.0,4.0,5.0,4.0,4.0,Difficult,Various,Male,27,United States,Masters,Asian
+467,Data Analyst,20000.0,No,Healthcare and Biotechnology,Python,6.0,7.0,8.0,7.0,6.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,26,India,Bachelors,Asian
+468,Data Analyst,20000.0,No,Finance and Banking,Python,2.0,3.0,2.0,5.0,5.0,6.0,Neither easy nor difficult,Work Environment Preferences,Female,35,India,Masters,Asian
+469,Data Analyst,95500.0,Yes,Education,Python,0.0,1.0,1.0,0.0,0.0,0.0,Neither easy nor difficult,Work Environment,Male,31,United States,Masters,Hispanic or Latino
+470,Data Analyst,20000.0,Yes,Education,Python,2.0,1.0,2.0,3.0,4.0,3.0,Difficult,Work Environment Preferences,Male,25,Zambia,Bachelors,Black or African American
+471,Data Engineer,75500.0,Yes,Construction and Real Estate,Python,3.0,10.0,8.0,8.0,10.0,10.0,Easy,Work Environment Preferences,Male,27,United States,Bachelors,White or Caucasian
+472,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,5.0,8.0,3.0,2.0,4.0,8.0,Neither easy nor difficult,Work Environment,Male,32,Netherlands,Bachelors,White or Caucasian
+473,None,20000.0,Yes,Construction and Real Estate,Python,0.0,3.0,3.0,3.0,3.0,6.0,Difficult,Work-Life Balance,Male,47,Portugal,Bachelors,White or Caucasian
+474,Database Administrator,75500.0,No,Finance and Banking,Python,0.0,10.0,10.0,5.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Female,30,United States,Masters,Asian
+475,Data Analyst,115500.0,Yes,Aerospace and Defense,Python,8.0,6.0,6.0,7.0,9.0,10.0,Easy,Compensation and Benefits,Female,35,United States,Masters,Black or African American
+476,Data Analyst,53000.0,Yes,Finance and Banking,Python,6.0,9.0,5.0,7.0,8.0,9.0,Difficult,Work Environment Preferences,Male,25,United States,High School,Hispanic or Latino
+477,Data Steward,75500.0,No,Food and Beverage,Python,3.0,6.0,6.0,6.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,27,United States,Bachelors,White or Caucasian
+478,Data Analyst,53000.0,Yes,Healthcare and Biotechnology,R,1.0,5.0,3.0,3.0,6.0,5.0,Difficult,Work Environment Preferences,Female,27,United States,Masters,Black or African American
+479,None,20000.0,No,Technology and Data Services,Python,1.0,8.0,8.0,1.0,3.0,7.0,Very Easy,Compensation and Benefits,Female,23,India,Masters,Asian
+480,Data Scientist,53000.0,No,Manufacturing and Industrial,Python,9.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Work Environment,Male,18,United States,Bachelors,White or Caucasian
+481,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,8.0,10.0,9.0,6.0,8.0,9.0,Easy,Work Environment Preferences,Female,28,Costa Rica,Masters,Hispanic or Latino
+482,Manager,137500.0,Yes,Healthcare and Biotechnology,Python,7.0,6.0,8.0,8.0,8.0,7.0,Easy,Work Environment Preferences,Male,28,United States,Bachelors,White or Caucasian
+483,None,20000.0,No,Other,Python,0.0,0.0,0.0,0.0,0.0,0.0,Easy,Work-Life Balance,Female,26,United States,Bachelors,American Indian or Alaska Native
+484,None,20000.0,No,Education,Python,0.0,0.0,3.0,0.0,0.0,8.0,Difficult,Compensation and Benefits,Male,27,Ghana,Bachelors,Black or African American
+485,Data Analyst,53000.0,No,Technology and Information Technology,Python,9.0,7.0,9.0,10.0,10.0,10.0,Neither easy nor difficult,Work-Life Balance,Female,22,India,Masters,Asian
+486,Data Analyst,20000.0,Yes,Technology and Information Technology,R,0.0,8.0,7.0,6.0,3.0,9.0,Very Difficult,Compensation and Benefits,Male,27,United States,High School,White or Caucasian
+487,Data Engineer,20000.0,Yes,Food and Beverage,Python,5.0,7.0,6.0,8.0,7.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,28,India,Bachelors,Asian
+488,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,3.0,2.0,4.0,3.0,3.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Nigeria,High School,Black or African American
+489,Data Analyst,20000.0,No,Healthcare and Biotechnology,Python,2.0,6.0,6.0,7.0,7.0,9.0,Difficult,Compensation and Benefits,Male,32,United Kingdom,Bachelors,Hispanic or Latino
+490,None,20000.0,Yes,Finance and Banking,SQL,7.0,9.0,10.0,10.0,3.0,4.0,Easy,Work Environment Preferences,Male,33,Uruguay,Bachelors,White or Caucasian
+491,Data Analyst,53000.0,No,Government and Public Sector,Python,5.0,6.0,5.0,2.0,3.0,3.0,Easy,Work Environment Preferences,Male,23,Canada,Masters,Black or African American
+492,None,20000.0,Yes,Finance and Banking,R,4.0,5.0,4.0,4.0,5.0,6.0,Neither easy nor difficult,Work Environment Preferences,Female,40,Nigeria,Bachelors,Black or African American
+493,Data Analyst,53000.0,Yes,Professional Services,Python,7.0,9.0,9.0,9.0,7.0,9.0,Easy,Compensation and Benefits,Female,28,United Kingdom,Bachelors,Asian
+494,Data Analyst,20000.0,No,Construction and Real Estate,R,3.0,7.0,8.0,6.0,6.0,9.0,Difficult,Work Environment Preferences,Male,26,Nigeria,High School,Black or African American
+495,Consultant,20000.0,Yes,Technology and Information Technology,Python,3.0,5.0,5.0,4.0,3.0,2.0,Difficult,Compensation and Benefits,Female,24,India,Bachelors,Asian
+496,Engineer,95500.0,Yes,Finance and Banking,Python,7.0,5.0,5.0,8.0,8.0,8.0,Neither easy nor difficult,Work Environment Preferences,Female,40,United States,Associates,Bi-racial/Multi-racial
+497,Data Analyst,75500.0,Yes,Professional Services,Python,8.0,10.0,10.0,10.0,7.0,9.0,Neither easy nor difficult,Compensation and Benefits,Male,26,United States,Bachelors,Black or African American
+498,Data Scientist,53000.0,Yes,Professional Services,Python,8.0,8.0,10.0,10.0,10.0,10.0,Easy,Work Environment,Female,44,United Kingdom,Bachelors,White or Caucasian
+499,Systems Configuration,75500.0,Yes,Finance and Insurance,Python,7.0,9.0,8.0,8.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,36,United States,Masters,White or Caucasian
+500,Analyst,20000.0,Yes,Human Resources and Recruiting,Python,1.0,5.0,10.0,10.0,8.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Costa Rica,Bachelors,Hispanic or Latino
+501,Analyst,20000.0,Yes,Construction and Real Estate,Python,3.0,3.0,3.0,2.0,2.0,2.0,Very Easy,Work-Life Balance,Male,48,Indonesia,Masters,Asian
+502,Data Analyst,53000.0,Yes,Construction and Real Estate,PHP,1.0,4.0,1.0,2.0,2.0,3.0,Easy,Compensation and Benefits,Female,30,Canada,Masters,Asian
+503,Engineer,20000.0,No,Telecommunications,Python,3.0,8.0,8.0,5.0,3.0,5.0,Difficult,Compensation and Benefits,Male,28,India,Bachelors,Asian
+504,Engineer,20000.0,No,Technology and Information Technology,Python,5.0,8.0,7.0,7.0,3.0,2.0,Difficult,Compensation and Benefits,Male,25,India,Bachelors,Asian
+505,Engineer,115500.0,No,Technology and Information Technology,SQL,6.0,5.0,4.0,4.0,3.0,4.0,Easy,Compensation and Benefits,Male,24,United States,Masters,American Indian or Alaska Native
+506,Data Analyst,53000.0,Yes,Non-Profit and Social Services,Python,5.0,10.0,7.0,7.0,4.0,8.0,Easy,Compensation and Benefits,Male,31,United States,Bachelors,Black or African American
+507,Data Engineer,20000.0,No,Construction and Real Estate,Python,3.0,3.0,8.0,9.0,5.0,3.0,Easy,Compensation and Benefits,Male,23,United Kingdom,Bachelors,Arab
+508,Data Analyst,53000.0,No,Security and Investigation,DAX,1.0,4.0,4.0,1.0,1.0,4.0,Easy,Work Environment,Female,48,United Kingdom,Masters,White or Caucasian
+509,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,Python,6.0,9.0,8.0,8.0,8.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,28,United States,Bachelors,Black or African American
+510,Data Analyst,53000.0,Yes,Retail and E-commerce,Python,5.0,7.0,7.0,7.0,7.0,7.0,Difficult,Compensation and Benefits,Male,32,United Kingdom,Masters,Hispanic or Latino
+511,Data Scientist,53000.0,Yes,Finance and Banking,Python,5.0,7.0,7.0,4.0,5.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Hong Kong,Bachelors,Asian
+512,Data Analyst,20000.0,Yes,Finance and Insurance,Python,5.0,5.0,7.0,7.0,7.0,8.0,Neither easy nor difficult,Work-Life Balance,Male,32,Tunisia,Masters,White or Caucasian
+513,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,0.0,3.0,0.0,1.0,0.0,0.0,Easy,Work Environment,Female,30,Sri Lanka,Masters,Asian
+514,Data Analyst,20000.0,Yes,Manufacturing and Industrial,Python,4.0,2.0,5.0,2.0,4.0,4.0,Neither easy nor difficult,Work-Life Balance,Female,35,Spain,Masters,White or Caucasian
+515,None,20000.0,Yes,Technology and Information Technology,R,Unknown,Unknown,Unknown,Unknown,Unknown,10.0,Easy,Work Environment Preferences,Female,38,United Kingdom,Masters,Black or African American
+516,Manager,75500.0,Yes,Retail and E-commerce,Python,6.0,6.0,7.0,7.0,6.0,7.0,Easy,Work Environment,Female,30,United States,Masters,Asian
+517,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,3.0,5.0,4.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,48,United States,Bachelors,White or Caucasian
+518,Data Analyst,75500.0,Yes,Finance and Banking,SQL,5.0,8.0,5.0,5.0,5.0,4.0,Easy,Work Environment Preferences,Male,32,Canada,Masters,Asian
+519,Manager,53000.0,Yes,Telecommunications,Python,4.0,5.0,4.0,5.0,5.0,6.0,Difficult,Work-Life Balance,Male,27,India,Bachelors,American Indian or Alaska Native
+520,Product Owner,53000.0,No,Technology and Information Technology,Python,7.0,9.0,5.0,6.0,6.0,7.0,Easy,Job Satisfaction,Male,27,United Kingdom,Masters,White or Caucasian
+521,None,20000.0,No,Finance and Banking,Python,8.0,7.0,6.0,7.0,8.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,24,Kenya,Bachelors,African
+522,Data Scientist,187500.0,Yes,Finance and Banking,R,9.0,9.0,9.0,9.0,8.0,8.0,Difficult,Compensation and Benefits,Male,42,United States,PhD,Asian
+523,Analyst,53000.0,No,Technology and Information Technology,Python,8.0,6.0,6.0,8.0,7.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,24,United States,Bachelors,Hispanic or Latino
+524,Database Developer,20000.0,Yes,Technology and Information Technology,Python,5.0,9.0,7.0,7.0,6.0,9.0,Easy,Compensation and Benefits,Male,23,India,Bachelors,Asian
+525,Data Analyst,20000.0,No,Technology and Information Technology,Python,7.0,9.0,8.0,8.0,4.0,2.0,Neither easy nor difficult,Compensation and Benefits,Male,26,India,Bachelors,Asian
+526,Data Analyst,53000.0,No,Consumer Goods and Home Living,SQL,5.0,6.0,6.0,2.0,2.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,32,Germany,Bachelors,Black or African American
+527,Engineer,20000.0,No,Telecommunications,Python,4.0,3.0,2.0,0.0,0.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,35,Argentina,Bachelors,White or Caucasian
+528,Data Analyst,115500.0,Yes,Healthcare and Biotechnology,Python,4.0,3.0,4.0,2.0,2.0,2.0,Easy,Work-Life Balance,Male,41,United States,High School,White or Caucasian
+529,Analyst,53000.0,No,Education,Python,4.0,9.0,8.0,8.0,6.0,7.0,Neither easy nor difficult,Compensation and Benefits,Male,25,United States,Masters,White or Caucasian
+530,Data Analyst,20000.0,Yes,Construction and Real Estate,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation and Benefits,Female,28,United States,Masters,Asian
+531,Data Analyst,53000.0,Yes,Agriculture,Python,3.0,6.0,5.0,5.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,29,United States,Bachelors,White or Caucasian
+532,None,20000.0,No,Telecommunications,Python,8.0,10.0,6.0,7.0,8.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,19,United States,High School,White or Caucasian
+533,Data Analyst,53000.0,Yes,Finance and Insurance,Python,5.0,6.0,9.0,6.0,7.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,27,India,Bachelors,Asian
+534,None,20000.0,Yes,Finance and Banking,Python,8.0,9.0,9.0,7.0,8.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,25,Other,Bachelors,White or Caucasian
+535,Data Analyst,53000.0,Yes,Non-Profit and Social Services,Python,6.0,10.0,10.0,10.0,10.0,8.0,Difficult,Compensation and Benefits,Female,26,Canada,Masters,Asian
+536,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,Python,3.0,4.0,5.0,5.0,4.0,5.0,Difficult,Work-Life Balance,Male,25,Spain,Bachelors,White or Caucasian
+537,Data Analyst,20000.0,Yes,Manufacturing and Industrial,Python,6.0,6.0,9.0,9.0,10.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,25,Portugal,Bachelors,White or Caucasian
+538,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,R,2.0,3.0,4.0,3.0,3.0,5.0,Neither easy nor difficult,Work-Life Balance,Male,26,Liberia,Bachelors,Black or African American
+539,Data Analyst,137500.0,Yes,Education,Python,8.0,8.0,7.0,6.0,7.0,9.0,Neither easy nor difficult,Work Environment,Male,35,United States,Bachelors,White or Caucasian
+540,Data Analyst,95500.0,Yes,Retail and E-commerce,Python,6.0,7.0,7.0,6.0,7.0,6.0,Difficult,Work Environment Preferences,Male,29,United States,Masters,Black or African American
+541,Data Analyst,95500.0,Yes,Technology and Information Technology,Python,7.0,6.0,5.0,4.0,3.0,6.0,Neither easy nor difficult,Compensation and Benefits,Female,41,United States,Associates,Hispanic or Latino
+542,None,20000.0,No,Education,Python,0.0,6.0,4.0,5.0,2.0,4.0,Very Difficult,Work Environment Preferences,Female,22,United States,Bachelors,Hispanic or Latino
+543,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,None,2.0,6.0,6.0,4.0,3.0,3.0,Difficult,Compensation and Benefits,Male,35,United States,Bachelors,Hispanic or Latino
+544,Data Analyst,75500.0,Yes,Finance and Banking,Python,4.0,3.0,4.0,4.0,4.0,6.0,Very Difficult,Compensation and Benefits,Male,30,Singapore,Bachelors,Asian
+545,Data Engineer,187500.0,No,Construction and Real Estate,Python,4.0,6.0,3.0,2.0,3.0,3.0,Neither easy nor difficult,Work Environment,Male,37,Canada,Bachelors,Asian
+546,Data Analyst,75500.0,Yes,Transportation and Logistics,Python,6.0,7.0,7.0,5.0,5.0,9.0,Difficult,Compensation and Benefits,Female,28,United States,Masters,Black or African American
+547,Data Analyst,95500.0,No,Construction and Real Estate,Python,7.0,5.0,6.0,6.0,4.0,6.0,Neither easy nor difficult,Work Environment,Male,23,United States,High School,White or Caucasian
+548,None,20000.0,No,Finance and Banking,Python,3.0,4.0,8.0,5.0,5.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,26,United States,High School,Asian
+549,Data Analyst,75500.0,No,Logistics and Distribution,Python,2.0,4.0,4.0,3.0,4.0,4.0,Neither easy nor difficult,Work-Life Balance,Male,25,Australia,Bachelors,Native Hawaiian or Other Pacific Islander
+550,Data Analyst,20000.0,No,Technology and Information Technology,Python,0.0,1.0,2.0,1.0,1.0,1.0,Neither easy nor difficult,Work Environment Preferences,Male,23,India,Bachelors,Asian
+551,None,20000.0,Yes,Other,None,0.0,1.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Work Environment,Male,53,Nigeria,Bachelors,Black or African American
+552,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,4.0,6.0,6.0,3.0,7.0,9.0,Neither easy nor difficult,Compensation and Benefits,Female,33,Romania,Bachelors,White or Caucasian
+553,None,20000.0,Yes,Finance and Banking,R,3.0,5.0,5.0,4.0,5.0,6.0,Difficult,Compensation and Benefits,Male,39,Other,High School,Black or African American
+554,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,None,6.0,7.0,5.0,7.0,7.0,9.0,Difficult,Compensation and Benefits,Female,22,United Kingdom,Bachelors,White or Caucasian
+555,Data Analyst,53000.0,No,Finance and Banking,Python,4.0,7.0,7.0,7.0,5.0,5.0,Easy,Compensation and Benefits,Male,24,Germany,Bachelors,White or Caucasian
+556,Data Architect,95500.0,No,Energy and Utilities,Python,5.0,1.0,3.0,1.0,4.0,5.0,Difficult,Work-Life Balance,Male,31,Canada,High School,White or Caucasian
+557,Data Analyst,20000.0,Yes,Retail and E-commerce,Python,0.0,0.0,0.0,0.0,0.0,0.0,Very Difficult,Compensation and Benefits,Male,25,None,Bachelors,Asian
+558,None,20000.0,No,Technology and Information Technology,R,4.0,7.0,7.0,6.0,6.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,25,India,Bachelors,Asian
+559,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,4.0,4.0,4.0,2.0,0.0,Neither easy nor difficult,Work-Life Balance,Male,23,India,Bachelors,Asian
+560,Ads Operations,53000.0,Yes,Advertising and Marketing,SQL,6.0,7.0,7.0,7.0,7.0,6.0,Neither easy nor difficult,Work Environment Preferences,Male,23,India,Bachelors,Asian
+561,Data Analyst,95500.0,No,Healthcare and Biotechnology,Python,8.0,9.0,8.0,8.0,8.0,9.0,Difficult,Compensation and Benefits,Male,40,United States,High School,White or Caucasian
+562,Data Analyst,53000.0,No,Non-Profit and Social Services,C/C++,5.0,6.0,6.0,2.0,0.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,29,United States,Bachelors,Hispanic or Latino
+563,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,1.0,7.0,5.0,5.0,4.0,4.0,Difficult,Compensation and Benefits,Male,28,India,Bachelors,Asian
+564,Data Analyst,20000.0,Yes,Healthcare and Biotechnology,R,3.0,6.0,6.0,4.0,6.0,3.0,Very Easy,Compensation and Benefits,Female,28,United Kingdom,Masters,Black or African American
+565,None,20000.0,Yes,Telecommunications,Python,0.0,3.0,3.0,4.0,5.0,5.0,Difficult,Work-Life Balance,Female,26,India,Masters,Asian
+566,Data Engineer,53000.0,No,Construction and Real Estate,Python,6.0,8.0,8.0,5.0,5.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,30,Netherlands,Masters,White or Caucasian
+567,Data Analyst,75500.0,Yes,Education,SQL,5.0,9.0,7.0,9.0,8.0,9.0,Neither easy nor difficult,Compensation and Benefits,Male,27,Australia,Bachelors,Asian
+568,Data Analyst,20000.0,Yes,Retail and E-commerce,None,2.0,0.0,5.0,3.0,0.0,3.0,Very Difficult,Work Environment Preferences,Male,28,Nigeria,Bachelors,Black or African American
+569,Data Analyst,75500.0,No,Education,Python,3.0,3.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Work-Life Balance,Female,38,Nigeria,Masters,Black or African American
+570,Data Analyst,20000.0,No,Finance and Banking,Python,2.0,6.0,5.0,5.0,6.0,6.0,Easy,Work Environment,Male,22,Mexico,Bachelors,White or Caucasian
+571,Data Analyst,95500.0,Yes,Energy and Utilities,Python,7.0,8.0,9.0,9.0,9.0,9.0,Difficult,Compensation and Benefits,Male,34,United States,Bachelors,Hispanic or Latino
+572,Data Analyst,20000.0,No,Technology and Information Technology,Python,3.0,8.0,8.0,5.0,7.0,9.0,Easy,Compensation and Benefits,Male,26,Indonesia,Bachelors,Asian
+573,Data Analyst,75500.0,Yes,Technology and Information Technology,Python,5.0,9.0,7.0,7.0,8.0,9.0,Neither easy nor difficult,Compensation and Benefits,Female,26,Canada,Bachelors,Asian
+574,Data Engineer,75500.0,No,Education,Python,10.0,10.0,10.0,9.0,9.0,10.0,Difficult,Work Environment Preferences,Male,25,Greece,Bachelors,European
+575,Data Scientist,137500.0,Yes,Technology and Information Technology,Python,5.0,3.0,7.0,4.0,5.0,3.0,Easy,Work Environment,Male,34,United States,Bachelors,Black or African American
+576,Developer,53000.0,Yes,Finance and Banking,DAX,7.0,10.0,10.0,10.0,4.0,5.0,Neither easy nor difficult,Work-Life Balance,Female,32,Poland,Bachelors,Hispanic or Latino
+577,None,20000.0,No,Construction and Real Estate,R,2.0,2.0,2.0,2.0,2.0,2.0,Difficult,Compensation and Benefits,Male,24,United States,Associates,Black or African American
+578,Data Engineer,20000.0,Yes,Technology and Information Technology,Python,7.0,3.0,3.0,2.0,5.0,9.0,Difficult,Compensation and Benefits,Male,26,Argentina,Bachelors,Hispanic or Latino
+579,Data Analyst,53000.0,Yes,Telecommunications,SQL,4.0,7.0,5.0,6.0,4.0,6.0,Difficult,Compensation and Benefits,Female,32,Sweden,Masters,Black or African American
+580,Data Scientist,53000.0,No,Technology and Information Technology,R,5.0,1.0,7.0,1.0,1.0,2.0,Neither easy nor difficult,Work-Life Balance,Male,40,Portugal,Masters,White or Caucasian
+581,Data Analyst,20000.0,No,Advertising and Marketing,Python,0.0,7.0,1.0,6.0,0.0,0.0,Easy,Compensation and Benefits,Male,27,United States,Bachelors,Black or African American
+582,Data Analyst,75500.0,Yes,Technology and Information Technology,R,4.0,3.0,6.0,7.0,4.0,7.0,Easy,Compensation and Benefits,Male,28,United States,Masters,Black or African American
+583,Data Analyst,20000.0,Yes,Consumer Goods,Python,1.0,9.0,5.0,5.0,1.0,1.0,Difficult,Compensation and Benefits,Male,30,Nigeria,Bachelors,African
+584,Data Analyst,20000.0,Yes,Other,Python,0.0,6.0,5.0,5.0,5.0,6.0,Difficult,Work Environment Preferences,Male,37,United States,Bachelors,White or Caucasian
+585,Software Support,53000.0,No,Technology and Information Technology,JavaScript,7.0,7.0,5.0,5.0,0.0,0.0,Difficult,Work Environment,Male,32,Australia,Bachelors,Asian
+586,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,9.0,7.0,10.0,10.0,5.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,24,Saudi Arabia,Bachelors,Arab
+587,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,6.0,7.0,7.0,7.0,5.0,6.0,Neither easy nor difficult,Compensation and Benefits,Male,39,Argentina,Associates,White or Caucasian
+588,Data Analyst,137500.0,Yes,Finance and Banking,Python,6.0,8.0,7.0,4.0,4.0,2.0,Easy,Professional Development,Male,34,Australia,Bachelors,Asian
+589,Data Analyst,53000.0,No,Aerospace and Defense,Python,5.0,6.0,10.0,7.0,3.0,3.0,Neither easy nor difficult,Work Environment Preferences,Male,27,United States,Bachelors,Black or African American
+590,Data Analyst,75500.0,Yes,Healthcare and Biotechnology,SQL,7.0,7.0,4.0,7.0,7.0,7.0,Difficult,Compensation and Benefits,Male,54,United States,High School,White or Caucasian
+591,None,20000.0,No,Technology and Information Technology,Python,0.0,Unknown,Unknown,Unknown,Unknown,Unknown,Difficult,Work Environment Preferences,Female,20,India,Bachelors,Asian
+592,None,20000.0,Yes,Finance and Banking,SQL,3.0,3.0,3.0,3.0,3.0,3.0,Neither easy nor difficult,Work-Life Balance,Male,25,India,Masters,Asian
+593,None,20000.0,No,Technology and Information Technology,Python,7.0,7.0,2.0,2.0,7.0,9.0,Easy,Work-Life Balance,Male,33,India,Bachelors,Asian
+594,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,4.0,8.0,8.0,8.0,10.0,10.0,Very Easy,Work Environment Preferences,Male,30,United Kingdom,Masters,White or Caucasian
+595,None,20000.0,Yes,Technology and Information Technology,Python,0.0,4.0,2.0,0.0,1.0,3.0,Neither easy nor difficult,Compensation and Benefits,Male,31,Niger,High School,Black or African American
+596,None,20000.0,Yes,Manufacturing and Industrial,Python,5.0,6.0,5.0,6.0,2.0,1.0,Difficult,Work Environment Preferences,Male,22,France,Masters,Arab
+597,Data Analyst,75500.0,Yes,Technology and Information Technology,R,8.0,10.0,10.0,10.0,8.0,9.0,Neither easy nor difficult,Work Environment Preferences,Female,38,United States,Bachelors,Black or African American
+598,Data Analyst,20000.0,No,Logistics and Distribution,Python,6.0,9.0,7.0,7.0,5.0,8.0,Neither easy nor difficult,Work-Life Balance,Male,22,Malaysia,Bachelors,Asian
+599,Data Scientist,20000.0,Yes,Construction and Real Estate,Python,2.0,3.0,4.0,5.0,3.0,6.0,Very Easy,Compensation and Benefits,Male,33,India,Bachelors,Asian
+600,Data Analyst,53000.0,Yes,Technology and Information Technology,Python,3.0,6.0,6.0,6.0,5.0,5.0,Neither easy nor difficult,Compensation and Benefits,Male,27,Canada,Bachelors,White or Caucasian
+601,Data Analyst,20000.0,No,Technology and Information Technology,R,0.0,6.0,3.0,0.0,0.0,10.0,Neither easy nor difficult,Work Environment Preferences,Male,19,Algeria,Bachelors,White or Caucasian
+602,Specialist,20000.0,No,Retail and E-commerce,Python,1.0,6.0,2.0,5.0,1.0,0.0,Neither easy nor difficult,Compensation and Benefits,Male,24,India,Bachelors,Asian
+603,Director,187500.0,No,Finance and Banking,None,8.0,10.0,9.0,10.0,8.0,10.0,Very Easy,Work Environment,Female,58,United States,Masters,White or Caucasian
+604,Data Analyst,20000.0,No,Technology and Information Technology,Python,2.0,2.0,5.0,6.0,6.0,3.0,Neither easy nor difficult,Work-Life Balance,Male,22,Nigeria,Bachelors,Black or African American
+605,Data Analyst,95500.0,No,Technology and Information Technology,Python,4.0,4.0,4.0,4.0,3.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,26,Ireland,Masters,Asian
+606,Manager,53000.0,No,Technology and Information Technology,None,4.0,5.0,4.0,5.0,5.0,3.0,Easy,Work Environment,Female,31,United Kingdom,Bachelors,White or Caucasian
+607,Data Analyst,53000.0,No,Agriculture,Python,2.0,2.0,4.0,5.0,1.0,1.0,Neither easy nor difficult,Compensation and Benefits,Male,23,United States,High School,Hispanic or Latino
+608,Data Analyst,95500.0,No,Healthcare and Biotechnology,Python,7.0,10.0,10.0,10.0,7.0,8.0,Neither easy nor difficult,Work Environment Preferences,Female,31,United States,Masters,Asian
+609,None,75500.0,No,Construction and Real Estate,None,5.0,5.0,7.0,7.0,9.0,10.0,Difficult,Compensation and Benefits,Female,24,United States,Bachelors,Asian
+610,Engineer,53000.0,Yes,Finance and Banking,Python,8.0,10.0,10.0,10.0,10.0,10.0,Neither easy nor difficult,Compensation and Benefits,Male,29,Mexico,Bachelors,Hispanic or Latino
+611,None,20000.0,Yes,Education,Python,7.0,8.0,9.0,8.0,9.0,10.0,Difficult,Work-Life Balance,Male,26,Indonesia,Bachelors,Asian
+612,None,20000.0,Yes,Science and Research,Python,3.0,9.0,9.0,9.0,9.0,9.0,Neither easy nor difficult,Compensation and Benefits,Male,20,India,High School,Asian
+613,Data Analyst,20000.0,Yes,Education,Python,0.0,2.0,3.0,2.0,4.0,2.0,Neither easy nor difficult,Compensation and Benefits,Male,23,India,Bachelors,Asian
+614,Data Analyst,115500.0,No,Technology and Information Technology,Python,8.0,8.0,9.0,8.0,7.0,7.0,Neither easy nor difficult,Work-Life Balance,Male,33,United States,Masters,White or Caucasian
+615,None,20000.0,Yes,Technology and Information Technology,Python,2.0,3.0,3.0,5.0,5.0,9.0,Easy,Work Environment Preferences,Male,26,Nigeria,Bachelors,Black or African American
+616,Data Analyst,20000.0,Yes,Professional Services,R,3.0,9.0,8.0,8.0,6.0,6.0,Difficult,Compensation and Benefits,Male,27,India,Bachelors,Asian
+617,None,20000.0,No,Agriculture,SQL,0.0,8.0,8.0,8.0,8.0,8.0,Neither easy nor difficult,Compensation and Benefits,Male,22,Uzbekistan,Bachelors,Asian
+618,Data Analyst,20000.0,Yes,Technology and Information Technology,Python,3.0,9.0,9.0,6.0,9.0,4.0,Easy,Compensation and Benefits,Male,23,Spain,Masters,White or Caucasian
+619,Analyst,20000.0,Yes,Food and Beverage,Python,3.0,6.0,7.0,5.0,4.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,28,Mexico,Bachelors,Hispanic or Latino
+620,Data Analyst,53000.0,No,Finance and Banking,SQL,7.0,5.0,4.0,6.0,4.0,5.0,Easy,Work-Life Balance,Female,39,Portugal,Masters,White or Caucasian
+621,Manager,115500.0,No,Transportation and Logistics,Python,3.0,2.0,5.0,3.0,3.0,4.0,Neither easy nor difficult,Compensation and Benefits,Male,37,United States,Masters,White or Caucasian
+622,Database Developer,53000.0,Yes,Education,SQL,4.0,7.0,7.0,7.0,7.0,7.0,Difficult,Compensation and Benefits,Female,29,United States,Masters,White or Caucasian
+623,Data Analyst,115500.0,Yes,Finance and Banking,Python,5.0,6.0,6.0,5.0,4.0,3.0,Easy,Work-Life Balance,Male,42,United States,Masters,White or Caucasian
+624,None,20000.0,No,Technology and Information Technology,R,0.0,0.0,0.0,0.0,0.0,0.0,Neither easy nor difficult,Work Environment,Female,25,Canada,Bachelors,Asian
+625,Database Developer,20000.0,Yes,Telecommunications,Python,5.0,5.0,5.0,5.0,4.0,5.0,Easy,Compensation and Benefits,Male,66,Morocco,High School,Black or African American
+626,Data Analyst,137500.0,Yes,Retail and E-commerce,R,8.0,5.0,6.0,6.0,5.0,7.0,Easy,Compensation and Benefits,Male,26,United States,Bachelors,White or Caucasian
+627,Data Scientist,20000.0,No,Manufacturing and Industrial,R,4.0,6.0,7.0,7.0,4.0,6.0,Difficult,Compensation and Benefits,Male,21,United States,Bachelors,White or Caucasian
+628,None,20000.0,Yes,Technology and Information Technology,Python,1.0,2.0,1.0,2.0,1.0,2.0,Difficult,Compensation and Benefits,Male,26,Oman,Bachelors,Asian
+629,Data Engineer,20000.0,No,Technology and Information Technology,Python,6.0,6.0,6.0,6.0,4.0,3.0,Easy,Career Progression,Male,24,Costa Rica,Bachelors,Hispanic or Latino
+630,Data Analyst,53000.0,No,Manufacturing and Industrial,Python,8.0,7.0,6.0,7.0,6.0,8.0,Easy,Work Environment Preferences,Male,22,United States,Bachelors,Asian
